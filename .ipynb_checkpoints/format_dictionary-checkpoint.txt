@@ -1,0 +1,84 @@
+Coffee Quality Institue Databse url: https://rkabacoff.github.io/qacr/reference/coffee.html#format
+
+Data scraped from the Coffee Quality Institute Database of 1312 (1311) arabica coffee beans. Contains both data about the production and taste of the beans. Scores are aggregated based on multiple cups of coffee with many reviewers.
+
+Format
+A data frame with 1311 rows and 28 variables. The variables are as follows:
+
+country_of_origin
+Country of Origin of Beans
+
+company
+Company which made the coffee
+
+number_of_bags
+Number of bags harvested
+
+in_country_partner
+Partner of the Company in the Country of Origin
+
+grading_date
+Date the Coffee was reviewed
+
+owner_1
+Owner of the Company or the Company Name
+
+variety
+Variety of Coffee
+
+processing_method
+Method by Which the Beans were Processed
+
+aroma
+Reviewer's Score of Aroma on a 1-10 scale
+
+flavor
+Reviewer's Score of Flavor on a 1-10 scale
+
+aftertaste
+Reviewer's Score of Aftertaste on a 1-10 scale
+
+acidity
+Reviewer's Score of Acidity on a 1-10 scale
+
+body
+Reviewer's Score of Body on a 1-10 scale
+
+balance
+Reviewer's Score of Balance on a 1-10 scale
+
+uniformity
+Reviewer's Score of Uniformity on a 1-10 scale
+
+clean_cup
+Reviewer's Score of "Transparency of a cup" on a 1-10 scale
+
+sweetness
+Reviewer's Score of Sweetness on a 1-10 scale
+
+cupper_points
+Reviewer's Holistic Score of the cup on a 1-10 scale
+
+total_cup_points
+Sum of the Reviewer's Scores
+
+moisture
+Moisture percentage from Green Analysis
+
+category_one_defects
+Major defects in the beans
+
+color
+Color of the Greens
+
+category_two_defects
+Minor defects in the beans
+
+expiration
+Expiration of the certification of the bean
+
+unit_of_measurement
+Unit of Measurement for the Altitude of the farm
+
+altitude_mean_meters
+Altitude of the farm

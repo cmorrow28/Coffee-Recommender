@@ -1,0 +1,71 @@
+Project Vision: 
+1. Healthcare would be ideal 
+2. Animals would be cute as T
+3. Love the idea of Sign Language 
+
+-Find a problem worth solving, analyzing, or visualizing.
+-Use machine learning (ML) with the technologies we’ve learned.
+-You must use Scikit-learn and/or another machine learning library.
+-Your project must be powered by a dataset with at least 100 records.
+
+You must use at least two of the following:
+Python Pandas
+--> Python Matplotlib
+--> HTML/CSS/Bootstrap
+JavaScript Plotly
+JavaScript Leaflet
+-- > SQL Database
+MongoDB Database
+Google Cloud SQL
+Amazon AWS
+-- > Tableau
+
+
+POSSIBLE TOPICS 
+https://www.cancerimagingarchive.net/access-data/
+
+Breast Cancer Dataset= https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset 
+
+Wine Quality  = https://archive.ics.uci.edu/dataset/186/wine+quality  
+
+Ovarian Cancer Classification = https://www.kaggle.com/code/user7979/ovarian-cancer-classification-acc-0-95 
+
+FitBit Sleep Score = 
+-- https://www.kaggle.com/code/tanshihjen/eda-timeseries-fitbitsleepscoredata 
+-- https://www.kaggle.com/datasets/mbalos/fitbit-sleep-score-data/code 
+
+Sign Language Detection = 
+-- https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn 
+-- https://www.freecodecamp.org/news/weekend-projects-sign-language-and-static-gesture-recognition-using-scikit-learn-60813d600e79/ 
+
+Mushroom Classification = 
+https://archive.ics.uci.edu/dataset/73/mushroom 
+
+Chest CT-Scan images dataset 
+-- https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images 
+
+JEOPARDY Questions
+- https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/?rdt=61926 
+
+Stanford Dog Dataset 
+-- http://vision.stanford.edu/aditya86/ImageNetDogs/ 
+
+EG. The aim of our project is to uncover patterns in credit card fraud. We’ll examine relationships between transaction types and location, purchase prices and times of day, purchase trends over the course of a year, and other related relationships derived from the data. 
+
+STEPS TO TAKE: 
+1) Project Ideation: Clean Data / Define a questions/ define each component of question/ Scope  
+2) Data Fetching Techniques: / API integration 
+3) Data Analysis 
+4) Building the ML Model (EDA) 
+5) Testing T
+6) Creating Documentation 
+7) Creating presentation
+
+Whenever you use a dataset or create a new dataset based on other sources (such as existing datasets or information scraped from websites), make sure to use the following guidelines:
+
+Check for copyright protections, and make sure that the way you plan to use this dataset is within the bounds of fair use.
+
+Document how you intend to use this dataset now and in the future. Find any licenses or terms of use associated with the dataset, and review them to confirm that your intended use is in compliance.
+
+Investigate how the dataset was collected. Identify any indicators that the data was obtained from a source that the compilers were not authorized to access. 
+
