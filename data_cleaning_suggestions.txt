@@ -1,6 +1,7 @@
 Cleaning data suggestions: 
 
 - Remove unnamed column 
+- Remove un-needed columns
 - species good 
 - owner --> Add unknown values for nan, there are some chinese names keep or not keep? English names are beside these. Might be good to keep or place on "alternative names column" 
 
