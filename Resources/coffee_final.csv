@@ -9,7 +9,7 @@ Arabica,United States,antioquia,Other,Washed ,8.25,8.42,8.17,8.33,8.08,8.17,10.0
 Arabica,United States,antioquia,Other,Washed ,8.08,8.67,8.33,8.42,8.0,8.08,10.0,10.0,1943,1943
 Arabica,United States,antioquia,Other,Washed ,8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,2080,2080
 Arabica,China,yunnan,Catimor,Washed ,8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,1450,1450
-Arabica,Ethiopia,gedio,Ethiopian Yirgacheffe,Natural ,8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,1700,2000
+Arabica,Ethiopia,gedio,Yirgacheffe,Natural ,8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,1700,2000
 Arabica,United States,antioquia,Other,Washed ,8.0,8.25,8.08,8.5,8.25,8.0,10.0,10.0,2019,2019
 Arabica,Costa Rica,san ramon,Caturra,Washed ,8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,1300,1300
 Arabica,Mexico,xalapa,Other,Washed ,8.17,8.25,8.17,8.0,7.83,8.17,10.0,10.0,1320,1320
@@ -54,7 +54,7 @@ Arabica,Kenya,central kenya,SL34,Washed ,7.83,8.08,7.75,8.08,7.92,7.75,10.0,10.0
 Arabica,Kenya,central kenya,SL34,Washed ,8.0,7.92,7.92,8.08,7.83,7.75,10.0,10.0,1200,1200
 Arabica,Colombia,santander,Caturra,Washed ,8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,1550,1550
 Arabica,Colombia,santander,Caturra,Natural ,7.58,8.08,7.92,7.83,8.0,7.92,10.0,10.0,1550,1550
-Arabica,Indonesia,lintong,Sumatra Lintong,Semi-washed ,7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,1250,1400
+Arabica,Indonesia,sumatra,Lintong,Semi-washed ,7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,1250,1400
 Arabica,Guatemala,huehuetenango,Caturra,Washed ,8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,1400,1400
 Arabica,Colombia,pasto,Caturra,Natural ,8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,2560,2560
 Arabica,Ethiopia,aricha,Unknown,Natural ,8.42,8.0,7.42,8.0,7.92,7.92,10.0,10.0,1700,1700
@@ -77,11 +77,11 @@ Arabica,Kenya,nyeri,SL34,Washed ,7.92,7.83,7.58,7.92,7.75,7.83,10.0,10.0,1800,18
 Arabica,Honduras,marcala,Catuai,Washed ,7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,1450,1450
 Arabica,El Salvador,apaneca,Bourbon,Washed ,7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,1350,1350
 Arabica,Indonesia,temanggung,Java,Washed ,7.92,7.83,7.75,7.75,7.75,7.75,10.0,10.0,1200,1200
-Arabica,Japan,ada okinawa japan,Mundo Novo,Pulped natural ,7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,170,170
+Arabica,Japan,okinawa,Mundo Novo,Pulped natural ,7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,170,170
 Arabica,Costa Rica,tarrazu,Catuai,Washed ,8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,1150,1150
 Arabica,Guatemala,acatenango,Bourbon,Washed ,7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,1600,1600
 Arabica,Costa Rica,tarrazu,Caturra,Washed ,8.17,8.0,7.83,7.17,7.83,7.75,10.0,10.0,1750,1750
-Arabica,Ethiopia,yirgacheffe,Ethiopian Yirgacheffe,Washed ,8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,1900,1900
+Arabica,Ethiopia,yirgacheffe,Yirgacheffe,Washed ,8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,1900,1900
 Arabica,Costa Rica,costa rica,Other,Other,7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,1750,1750
 Arabica,Costa Rica,west valley,Catuai,Washed ,8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,1200,1200
 Arabica,Taiwan,taichung xinshe 台中市新社區,Typica,Washed ,8.0,7.92,7.75,7.75,7.75,7.75,10.0,10.0,1000,1000
@@ -114,7 +114,7 @@ Arabica,Kenya,nyeri,SL28,Washed ,7.92,7.83,7.67,8.0,7.67,7.75,10.0,10.0,2000,200
 Arabica,Mexico,hustusco,Typica,Washed ,8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,1350,1350
 Arabica,Mexico,jaltenango,Typica,Washed ,7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,1500,1500
 Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.58,7.83,7.83,8.0,7.67,7.58,10.0,10.0,1300,1300
-Arabica,Indonesia,sumatra brastagi,Mandheling,Other,7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,1400,1400
+Arabica,Indonesia,sumatra,Mandheling,Other,7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,1400,1400
 Arabica,Colombia,huila,Caturra,Washed ,7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,1600,1950
 Arabica,Taiwan,mountain ali,Typica,Washed ,7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,1200,1200
 Arabica,Mexico,tapachula,Pacamara,Washed ,7.75,7.92,7.75,7.67,7.83,7.67,10.0,10.0,900,900
@@ -150,7 +150,7 @@ Arabica,Colombia,huila,Caturra,Washed ,8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,1600,
 Arabica,Nicaragua,jinotega,Caturra,Natural ,7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,900,1100
 Arabica,Brazil,cerrado,Catuai,Natural ,7.67,7.75,7.75,7.67,7.83,7.75,10.0,10.0,1150,1150
 Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,1850,1850
-Arabica,Ethiopia,snnprg; kafa; telo woreda; shada kebele,Gesha,Natural ,7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,1545,1668
+Arabica,Ethiopia,kaffa zone,Gesha,Natural ,7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,1545,1668
 Arabica,"Tanzania, United Republic Of",arusha,Other,Washed ,7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,1400,1400
 Arabica,Colombia,huila,Other,Washed ,7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,1530,1530
 Arabica,Kenya,kenya,SL28,Washed ,7.58,7.75,7.75,7.75,7.75,7.83,10.0,10.0,1,500
@@ -390,7 +390,7 @@ Arabica,Brazil,south of minas,Bourbon,Natural ,7.67,7.58,7.5,7.58,7.58,7.5,10.0,
 Arabica,El Salvador,apaneca,Bourbon,Washed ,7.5,7.5,7.75,7.58,7.92,7.83,10.0,9.33,1350,1350
 Arabica,Colombia,guayata,Caturra,Washed ,7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,1500,1500
 Arabica,Taiwan,dongshan dist.,Caturra,Natural ,7.17,7.83,7.25,7.67,7.67,7.58,10.0,10.0,350,350
-Arabica,Ethiopia,blida,Ethiopian Heirlooms,Washed ,7.58,7.58,7.5,7.5,7.58,7.58,10.0,10.0,2000,2000
+Arabica,Ethiopia,blida,Heirloom,Washed ,7.58,7.58,7.5,7.5,7.58,7.58,10.0,10.0,2000,2000
 Arabica,Taiwan,台東太麻里,Typica,Natural ,7.5,7.58,7.67,7.33,7.5,7.75,10.0,10.0,775,775
 Arabica,Philippines,bukidnon,Other,Washed ,7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,1200,1200
 Arabica,Philippines,asia pacific,Other,Washed ,8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,1600,1600
@@ -807,7 +807,7 @@ Arabica,Honduras,central region,Catuai,Natural ,7.25,7.33,7.08,7.5,7.25,7.33,10.
 Arabica,Costa Rica,san ramon,Caturra,Washed ,7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,1300,1300
 Arabica,Mexico,oaxaca,Typica,Washed ,7.58,7.33,7.42,7.25,7.5,7.5,9.33,10.0,1200,1200
 Arabica,Haiti,haiti,Typica,Washed ,7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,1000,1000
-Arabica,Indonesia,sumatra brastagi,Mandheling,Semi-washed ,7.58,7.42,7.0,7.67,7.5,7.5,9.33,10.0,1200,1500
+Arabica,Indonesia,sumatra,Mandheling,Semi-washed ,7.58,7.42,7.0,7.67,7.5,7.5,9.33,10.0,1200,1500
 Arabica,Guatemala,antigua,Bourbon,Washed ,7.67,7.42,6.83,7.17,7.42,7.17,10.0,10.0,1500,1500
 Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.83,7.5,7.67,7.67,7.83,7.5,10.0,10.0,185,185
 Arabica,Malawi,southern- zomba,Caturra,Washed ,7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,990,1000
