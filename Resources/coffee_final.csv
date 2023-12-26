@@ -1,0 +1,1011 @@
+species,country_of_origin,region,variety,processing_method,aroma,flavor,aftertaste,acidity,body,balance,clean_cup,sweetness,altitude_low_meters,altitude_high_meters
+Arabica,Ethiopia,guji-hambela,Unknown,Washed ,8.67,8.83,8.67,8.75,8.5,8.42,10.0,10.0,1950,2200
+Arabica,Ethiopia,guji-hambela,Other,Washed ,8.75,8.67,8.5,8.58,8.42,8.42,10.0,10.0,1950,2200
+Arabica,Ethiopia,oromia,Unknown,Natural ,8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,1800,2200
+Arabica,Ethiopia,guji-hambela,Other,Washed ,8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,1950,2200
+Arabica,Ethiopia,kaffa zone,Other,Natural ,8.08,8.58,8.5,8.5,7.67,8.42,10.0,10.0,1795,1850
+Arabica,Ethiopia,oromia,Unknown,Natural ,8.17,8.67,8.25,8.5,7.75,8.17,10.0,10.0,1855,1955
+Arabica,United States,antioquia,Other,Washed ,8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,1872,1872
+Arabica,United States,antioquia,Other,Washed ,8.08,8.67,8.33,8.42,8.0,8.08,10.0,10.0,1943,1943
+Arabica,United States,antioquia,Other,Washed ,8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,2080,2080
+Arabica,China,yunnan,Catimor,Washed ,8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,1450,1450
+Arabica,Ethiopia,gedio,Ethiopian Yirgacheffe,Natural ,8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,1700,2000
+Arabica,United States,antioquia,Other,Washed ,8.0,8.25,8.08,8.5,8.25,8.0,10.0,10.0,2019,2019
+Arabica,Costa Rica,san ramon,Caturra,Washed ,8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,1300,1300
+Arabica,Mexico,xalapa,Other,Washed ,8.17,8.25,8.17,8.0,7.83,8.17,10.0,10.0,1320,1320
+Arabica,United States,antioquia,Other,Washed ,8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,2112,2112
+Arabica,Brazil,south of minas,Bourbon,Natural ,8.5,8.5,8.0,8.0,8.0,8.0,10.0,10.0,1250,1250
+Arabica,Uganda,kapchorwa eastern,SL14,Washed ,8.42,8.17,8.17,8.17,7.83,7.92,10.0,10.0,1950,1950
+Arabica,Taiwan,leye,Sumatra,Pulped natural ,8.0,8.0,8.0,8.25,8.0,8.17,10.0,10.0,1200,1200
+Arabica,Brazil,vale da grama,Bourbon,Natural ,8.5,8.17,8.0,7.75,8.0,8.0,10.0,10.0,1300,1300
+Arabica,Costa Rica,west and central valley,Caturra,Washed ,8.17,7.83,8.0,8.08,7.83,8.0,10.0,10.0,1300,1300
+Arabica,Ethiopia,oromia,Unknown,Natural ,8.0,8.08,7.92,8.0,8.08,8.08,10.0,10.0,1750,1800
+Arabica,Kenya,muranga,SL34,Washed ,8.08,8.0,8.0,8.25,7.92,7.92,10.0,10.0,1800,1800
+Arabica,United States,antioquia,Other,Washed ,7.67,8.17,8.0,8.0,8.17,8.08,10.0,10.0,1941,1941
+Arabica,Thailand,chiang rai,Caturra,Washed ,7.83,8.33,7.83,8.25,7.58,7.92,10.0,10.0,1300,1300
+Arabica,Taiwan,natou county,Bourbon,Semi-washed ,8.08,8.17,7.75,8.08,7.75,7.83,10.0,10.0,1000,1000
+Arabica,Kenya,nyeri,SL28,Natural ,8.08,8.08,8.0,8.0,7.83,8.08,10.0,10.0,1754,1754
+Arabica,Brazil,south of minas,Bourbon,Semi-washed ,8.33,8.0,8.0,8.0,7.75,8.0,10.0,10.0,1250,1250
+Arabica,Colombia,tolima,Caturra,Washed ,7.75,7.92,7.83,8.08,8.08,8.17,10.0,10.0,900,1500
+Arabica,Kenya,kiambu,SL28,Washed ,7.92,8.17,7.83,8.5,7.5,7.92,10.0,10.0,1520,2200
+Arabica,Uganda,sipi,Other,Washed ,8.25,8.0,7.83,8.08,8.0,7.92,10.0,10.0,1400,1900
+Arabica,Uganda,eastern,SL14,Natural ,8.17,8.17,7.92,8.08,7.83,7.75,10.0,10.0,1400,1900
+Arabica,Colombia,huila,Caturra,Washed ,8.0,8.0,8.0,8.17,7.83,8.0,10.0,10.0,1800,1800
+Arabica,Panama,boquete,Gesha,Washed ,8.0,8.0,7.92,8.08,7.83,8.0,10.0,10.0,1600,1600
+Arabica,Ethiopia,oromia,Unknown,Washed ,7.83,8.08,7.92,8.08,8.0,7.92,10.0,10.0,1800,2000
+Arabica,Guatemala,acatenango,Bourbon,Washed ,7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,1524,1524
+Arabica,Guatemala,nuevo oriente,Catuai,Washed ,8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,1417,1417
+Arabica,Papua New Guinea,eastern highlands province,Unknown,Washed ,8.33,8.42,7.83,8.33,8.0,8.25,9.33,10.0,1700,1700
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,1500,1500
+Arabica,El Salvador,ataco,Bourbon,Semi-washed ,7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,1300,1400
+Arabica,Panama,boquete,Caturra,Natural ,8.0,7.75,7.83,7.83,7.67,8.58,10.0,10.0,1680,1680
+Arabica,Kenya,kirinyaga,SL28,Natural ,7.92,7.92,7.83,8.08,7.83,7.92,10.0,10.0,1900,1900
+Arabica,Ethiopia,oromia,Other,Natural ,7.83,8.0,7.83,7.92,7.83,8.08,10.0,10.0,1800,2000
+Arabica,Uganda,bulambuli eastern region,SL14,Washed ,8.33,7.92,7.67,7.92,7.67,7.92,10.0,10.0,1600,1600
+Arabica,Guatemala,huehuetenango,Bourbon,Washed ,8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,1706,1755
+Arabica,Ethiopia,oromia,Unknown,Washed ,7.75,7.83,7.83,8.17,7.92,7.83,10.0,10.0,1800,2000
+Arabica,Uganda,kapchorwa,SL14,Washed ,8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,1950,1950
+Arabica,Brazil,south of minas,Bourbon,Semi-washed ,8.0,8.0,8.0,7.67,7.75,8.0,10.0,10.0,1250,1250
+Arabica,China,yunnan,Catimor,Natural ,8.0,8.0,8.0,7.83,7.83,7.75,10.0,10.0,1700,1700
+Arabica,Guatemala,huehuetenango,Pacamara,Natural ,7.83,7.75,7.83,7.67,7.83,8.58,10.0,10.0,1770,1770
+Arabica,Costa Rica,west valley,Caturra,Washed ,7.92,8.08,8.0,7.92,8.0,8.08,10.0,9.33,1300,1300
+Arabica,Costa Rica,san ramon,Caturra,Washed ,8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,1300,1300
+Arabica,Kenya,central kenya,SL34,Washed ,7.83,8.08,7.75,8.08,7.92,7.75,10.0,10.0,1600,1600
+Arabica,Kenya,central kenya,SL34,Washed ,8.0,7.92,7.92,8.08,7.83,7.75,10.0,10.0,1200,1200
+Arabica,Colombia,santander,Caturra,Washed ,8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,1550,1550
+Arabica,Colombia,santander,Caturra,Natural ,7.58,8.08,7.92,7.83,8.0,7.92,10.0,10.0,1550,1550
+Arabica,Indonesia,lintong,Sumatra Lintong,Semi-washed ,7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,1250,1400
+Arabica,Guatemala,huehuetenango,Caturra,Washed ,8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,1400,1400
+Arabica,Colombia,pasto,Caturra,Natural ,8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,2560,2560
+Arabica,Ethiopia,aricha,Unknown,Natural ,8.42,8.0,7.42,8.0,7.92,7.92,10.0,10.0,1700,1700
+Arabica,Colombia,cundinamarca,Caturra,Natural ,7.83,8.0,7.75,7.75,7.83,7.83,10.0,10.0,2136,2136
+Arabica,Uganda,eastern uganda,SL14,Washed ,8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,1800,1800
+Arabica,Costa Rica,tarrazu,Catuai,Washed ,7.83,8.0,7.58,7.92,7.92,7.83,10.0,10.0,1900,1900
+Arabica,Mexico,veracruz,Typica,Washed ,7.83,8.0,7.83,7.75,7.67,7.83,10.0,10.0,1300,1300
+Arabica,Kenya,central kenya,SL34,Washed ,7.75,7.83,7.75,8.08,8.0,7.75,10.0,10.0,1580,1580
+Arabica,Brazil,grama valley,Mundo Novo,Natural ,8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,1100,1100
+Arabica,Colombia,huila,Caturra,Washed ,7.92,7.83,7.75,7.83,7.75,8.0,10.0,10.0,1600,1950
+Arabica,Taiwan,natou county,Typica,Semi-washed ,7.67,7.83,8.0,7.58,8.0,7.92,10.0,10.0,800,800
+Arabica,"Tanzania, United Republic Of",mbeya,Other,Washed ,8.0,7.83,7.83,7.92,7.75,7.75,10.0,10.0,1620,1620
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,1600,1950
+Arabica,Mexico,coatepec,Typica,Semi-washed ,7.75,8.0,7.75,7.83,7.5,7.92,10.0,10.0,1200,1200
+Arabica,Brazil,south of minas,Bourbon,Natural ,8.0,7.92,7.75,7.75,8.0,7.75,10.0,10.0,1200,1200
+Arabica,Brazil,south of minas,Catuai,Natural ,8.0,8.0,7.75,8.0,7.5,7.75,10.0,10.0,1000,1000
+Arabica,Taiwan,dongshan dist.,Typica,Natural ,7.92,7.58,7.83,7.83,7.83,7.83,10.0,10.0,350,350
+Arabica,Uganda,eastern,SL14,Natural ,7.75,7.92,7.67,7.67,8.25,7.75,10.0,10.0,1400,1900
+Arabica,Kenya,nyeri,SL34,Washed ,7.92,7.83,7.58,7.92,7.75,7.83,10.0,10.0,1800,1800
+Arabica,Honduras,marcala,Catuai,Washed ,7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,1450,1450
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,1350,1350
+Arabica,Indonesia,temanggung,Java,Washed ,7.92,7.83,7.75,7.75,7.75,7.75,10.0,10.0,1200,1200
+Arabica,Japan,ada okinawa japan,Mundo Novo,Pulped natural ,7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,170,170
+Arabica,Costa Rica,tarrazu,Catuai,Washed ,8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,1150,1150
+Arabica,Guatemala,acatenango,Bourbon,Washed ,7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,1600,1600
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,8.17,8.0,7.83,7.17,7.83,7.75,10.0,10.0,1750,1750
+Arabica,Ethiopia,yirgacheffe,Ethiopian Yirgacheffe,Washed ,8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,1900,1900
+Arabica,Costa Rica,costa rica,Other,Other,7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,1750,1750
+Arabica,Costa Rica,west valley,Catuai,Washed ,8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,1200,1200
+Arabica,Taiwan,taichung xinshe 台中市新社區,Typica,Washed ,8.0,7.92,7.75,7.75,7.75,7.75,10.0,10.0,1000,1000
+Arabica,Colombia,santander,Caturra,Washed ,7.75,7.83,7.75,7.83,7.75,7.83,10.0,10.0,1550,1550
+Arabica,Kenya,nyeri,SL28,Washed ,7.75,7.92,7.83,8.0,7.58,7.75,10.0,10.0,2000,2000
+Arabica,Guatemala,oriente,Bourbon,Washed ,8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,1310,1310
+Arabica,Guatemala,acatenango,Bourbon,Washed ,7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,1524,1524
+Arabica,Mexico,el remudadero,Typica,Washed ,7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,1200,1200
+Arabica,Uganda,mbale,Other,Washed ,7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,1700,1850
+Arabica,Kenya,nyeri,SL34,Washed ,7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,1754,1754
+Arabica,Colombia,santander,Other,Washed ,7.83,7.67,7.58,7.92,7.67,7.83,10.0,10.0,1500,1500
+Arabica,Kenya,nyeri,Peaberry,Washed ,7.83,7.83,7.83,7.75,7.58,7.83,10.0,10.0,1800,1800
+Arabica,Guatemala,jalapa,Pacas,Washed ,7.75,7.83,7.67,7.92,7.75,7.83,10.0,10.0,1524,1524
+Arabica,Guatemala,oriente,Bourbon,Washed ,8.0,7.92,7.67,7.58,7.58,7.67,10.0,10.0,1219,1219
+Arabica,Colombia,santander,Caturra,Washed ,7.67,7.67,7.58,7.75,7.58,8.5,10.0,10.0,1550,1550
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,1600,1900
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.83,7.83,8.0,7.58,7.92,10.0,10.0,1750,1750
+Arabica,Costa Rica,tres rios,Bourbon,Semi-washed ,7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,1450,1700
+Arabica,Colombia,huila,Caturra,Washed ,7.42,7.67,7.75,7.75,8.08,7.83,10.0,10.0,1800,1800
+Arabica,Brazil,vale da grama,Bourbon,Semi-washed ,8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,1300,1300
+Arabica,Brazil,mountains of minas gerais,Catuai,Semi-washed ,8.5,8.0,7.5,7.75,7.5,7.83,10.0,10.0,1100,1100
+Arabica,Costa Rica,valle central,Caturra,Washed ,7.92,7.67,7.92,7.75,7.67,7.58,10.0,10.0,1200,1200
+Arabica,Uganda,eastern uganda,SL14,Washed ,7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,1750,1750
+Arabica,China,yunnan,Catimor,Washed ,7.75,7.92,7.67,7.83,7.75,7.67,10.0,10.0,1680,1680
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.92,7.83,7.83,7.83,7.58,7.58,10.0,10.0,1700,1700
+Arabica,Colombia,cauca,Other,Washed ,8.08,7.67,7.83,7.83,7.67,7.67,10.0,10.0,1800,1800
+Arabica,China,yunnan,Other,Washed ,7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,1100,1100
+Arabica,Guatemala,oriente,Bourbon,Washed ,8.17,7.83,7.67,7.83,7.67,7.83,10.0,10.0,1310,1310
+Arabica,Kenya,nyeri,SL28,Washed ,7.92,7.83,7.67,8.0,7.67,7.75,10.0,10.0,2000,2000
+Arabica,Mexico,hustusco,Typica,Washed ,8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,1350,1350
+Arabica,Mexico,jaltenango,Typica,Washed ,7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,1500,1500
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.58,7.83,7.83,8.0,7.67,7.58,10.0,10.0,1300,1300
+Arabica,Indonesia,sumatra brastagi,Mandheling,Other,7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,1400,1400
+Arabica,Colombia,huila,Caturra,Washed ,7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,1600,1950
+Arabica,Taiwan,mountain ali,Typica,Washed ,7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,1200,1200
+Arabica,Mexico,tapachula,Pacamara,Washed ,7.75,7.92,7.75,7.67,7.83,7.67,10.0,10.0,900,900
+Arabica,Kenya,nyeri,SL28,Washed ,7.33,7.58,7.83,7.75,7.75,7.92,10.0,10.0,1800,1800
+Arabica,Honduras,central region,Catuai,Washed ,7.58,7.92,7.58,7.75,7.92,7.75,10.0,10.0,1500,1500
+Arabica,Colombia,huila,Caturra,Natural ,7.75,7.67,8.0,7.67,8.08,7.83,10.0,10.0,442,442
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.58,7.33,7.83,7.58,8.08,10.0,10.0,1800,1800
+Arabica,Mexico,tuxtla gutierrez,Typica,Washed ,8.0,7.75,7.75,7.83,7.5,7.67,10.0,10.0,1700,1700
+Arabica,Taiwan,國姓鄉 guoshing township,Typica,Washed ,7.92,7.75,7.75,7.67,7.67,7.83,10.0,10.0,1000,1000
+Arabica,Thailand,chiang rai thailand,Catimor,Natural ,7.83,7.75,7.75,7.42,7.83,7.67,10.0,10.0,1200,1200
+Arabica,Colombia,nariño,Caturra,Natural ,7.83,7.58,7.75,7.58,7.67,8.0,10.0,10.0,2560,2560
+Arabica,Guatemala,antigua,Caturra,Washed ,7.75,7.75,7.58,7.92,7.75,7.75,10.0,10.0,1500,1500
+Arabica,Guatemala,huehuetenango,Caturra,Washed ,7.75,7.92,7.5,8.08,7.58,7.67,10.0,10.0,1099,1099
+Arabica,China,yunnan,Catimor,Natural ,7.83,7.83,7.58,7.75,7.75,7.75,10.0,10.0,1400,1400
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,1600,1950
+Arabica,Colombia,huila,Caturra,Washed ,7.83,7.67,7.75,7.58,7.92,7.75,10.0,10.0,1600,1950
+Arabica,Colombia,cauca,Other,Washed ,7.83,7.75,7.83,7.58,7.67,7.75,10.0,10.0,1800,1800
+Arabica,Colombia,huila,Caturra,Natural ,7.42,7.67,7.83,7.75,7.92,7.83,10.0,10.0,442,442
+Arabica,"Tanzania, United Republic Of",shizingo village,Other,Washed ,7.83,7.67,7.75,7.83,7.67,7.67,10.0,10.0,1620,1620
+Arabica,"Tanzania, United Republic Of",mbeya,Other,Washed ,7.83,7.75,7.75,7.75,7.67,7.75,10.0,10.0,1600,1600
+Arabica,Guatemala,oriente,Bourbon,Other,7.83,7.83,7.5,7.92,7.58,7.75,10.0,10.0,1219,1219
+Arabica,Colombia,cauca,Caturra,Washed ,7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,1700,1700
+Arabica,Mexico,san pedro cotzilnam,Typica,Semi-washed ,7.83,7.92,7.67,7.83,7.5,7.75,10.0,10.0,1450,1450
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.83,7.83,7.75,7.67,7.83,7.58,10.0,10.0,1170,1170
+Arabica,Mexico,la concordia,Bourbon,Washed ,7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,1400,1400
+Arabica,Uganda,kasese,Other,Natural ,8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,1700,1700
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.75,7.83,7.58,7.83,7.67,7.75,10.0,10.0,1700,1700
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.92,7.75,7.67,7.67,7.5,7.67,10.0,10.0,1700,1700
+Arabica,Guatemala,huehuetenango,Caturra,Washed ,7.75,7.75,7.58,8.0,7.67,7.83,10.0,10.0,1116,1116
+Arabica,Guatemala,solola,Caturra,Washed ,7.75,7.92,7.58,7.92,7.67,7.67,10.0,10.0,1565,1565
+Arabica,Guatemala,norte,Bourbon,Washed ,7.58,7.83,7.58,7.83,7.83,7.67,10.0,10.0,3280,3280
+Arabica,Colombia,huila,Caturra,Washed ,8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,1600,1950
+Arabica,Nicaragua,jinotega,Caturra,Natural ,7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,900,1100
+Arabica,Brazil,cerrado,Catuai,Natural ,7.67,7.75,7.75,7.67,7.83,7.75,10.0,10.0,1150,1150
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,1850,1850
+Arabica,Ethiopia,snnprg; kafa; telo woreda; shada kebele,Gesha,Natural ,7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,1545,1668
+Arabica,"Tanzania, United Republic Of",arusha,Other,Washed ,7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,1400,1400
+Arabica,Colombia,huila,Other,Washed ,7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,1530,1530
+Arabica,Kenya,kenya,SL28,Washed ,7.58,7.75,7.75,7.75,7.75,7.83,10.0,10.0,1,500
+Arabica,Brazil,minas gerais,Mundo Novo,Natural ,7.58,7.83,7.75,7.67,7.67,8.0,10.0,10.0,894,1183
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.92,7.75,7.67,7.67,7.83,7.92,10.0,10.0,1310,1310
+Arabica,El Salvador,apaneca,Bourbon,Natural ,8.42,8.08,7.5,7.17,7.58,8.17,10.0,10.0,1500,1500
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.75,7.75,7.75,7.83,7.75,10.0,10.0,1750,1750
+Arabica,Uganda,mt. rwenzori,Other,Washed ,7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,1500,1700
+Arabica,Colombia,huila,Caturra,Washed ,7.83,7.5,7.42,7.5,7.83,8.5,10.0,10.0,442,442
+Arabica,Taiwan,nanxi dist.,Typica,Washed ,7.58,7.67,7.67,7.67,7.75,7.83,10.0,10.0,968,968
+Arabica,Colombia,huila,Caturra,Washed ,7.92,7.75,7.67,7.75,7.67,7.67,10.0,10.0,1600,1950
+Arabica,Guatemala,aldea xeucalvitz,Bourbon,Washed ,7.58,7.75,7.67,8.0,7.75,7.67,10.0,10.0,1550,1550
+Arabica,Mexico,santo domingo cacalotepec,Typica,Washed ,7.67,7.75,7.67,7.75,7.67,7.75,10.0,10.0,1480,1480
+Arabica,Ethiopia,ethiopia,Other,Natural ,7.92,7.92,7.83,8.0,7.92,7.92,10.0,8.67,1800,1800
+Arabica,Ethiopia,sidamo,Gesha,Natural ,7.83,7.75,7.67,7.75,7.33,7.75,10.0,10.0,1800,1800
+Arabica,Honduras,comayagua,Caturra,Washed ,7.42,7.83,7.75,7.92,7.75,7.58,10.0,10.0,1500,1500
+Arabica,Guatemala,huehuetenango,Caturra,Washed ,7.67,7.83,7.58,7.92,7.75,7.67,10.0,10.0,1658,1755
+Arabica,Colombia,huila,Other,Washed ,7.67,7.67,7.83,7.58,7.58,7.83,10.0,10.0,1600,1600
+Arabica,Guatemala,oriente,Bourbon,Natural ,7.92,7.67,7.42,7.92,7.75,7.83,10.0,10.0,1219,1219
+Arabica,Guatemala,oriente,Bourbon,Other,7.75,7.83,7.5,7.83,7.58,7.67,10.0,10.0,1219,1219
+Arabica,Colombia,huila,Unknown,Washed ,7.67,7.75,7.67,7.67,7.67,7.75,10.0,10.0,1480,1480
+Arabica,Colombia,santander,Caturra,Natural ,7.58,7.42,7.75,7.92,7.75,7.92,10.0,10.0,1450,1450
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.67,7.5,7.5,7.67,7.67,10.0,10.0,1600,1950
+Arabica,Ethiopia,sidamo,Other,Natural ,7.75,7.75,7.5,7.58,7.67,7.92,10.0,10.0,1550,1550
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.58,7.83,7.67,7.25,8.0,7.75,10.0,10.0,1260,1260
+Arabica,Colombia,cauca,Caturra,Washed ,7.67,7.83,7.67,7.75,7.67,7.75,10.0,10.0,1700,1700
+Arabica,Kenya,blend,SL34,Washed ,7.67,7.83,7.5,7.75,7.92,7.67,10.0,10.0,1200,1200
+Arabica,Kenya,central kenya,SL28,Washed ,7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,1650,1650
+Arabica,Uganda,kasese,Other,Washed ,7.92,7.75,7.58,7.67,7.67,7.83,10.0,10.0,1700,1700
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.75,7.58,7.5,7.58,7.5,10.0,10.0,890,890
+Arabica,Mexico,veracruz,Mundo Novo,Washed ,7.83,7.83,7.58,7.92,7.42,7.5,10.0,10.0,1300,1300
+Arabica,Thailand,chiangrai,Catimor,Natural ,7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,1350,1350
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.58,7.67,7.67,7.75,7.58,7.83,10.0,10.0,934,934
+Arabica,Taiwan,leye,Typica,Washed ,7.83,7.75,7.83,7.75,7.83,7.75,10.0,10.0,1200,1200
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,1600,1950
+Arabica,Taiwan,台中和平區,Typica,Washed ,8.0,7.92,7.92,7.92,7.67,7.33,10.0,10.0,950,950
+Arabica,Colombia,santander,Caturra,Natural ,7.67,7.83,7.67,7.75,7.67,7.83,10.0,10.0,1550,1550
+Arabica,Mexico,xicotepec de juarez,Typica,Washed ,7.67,7.75,7.58,7.67,7.75,7.83,10.0,10.0,900,900
+Arabica,Mexico,la concordia,Typica,Washed ,7.5,7.67,7.58,7.83,7.75,7.75,10.0,10.0,1500,1500
+Arabica,Mexico,la yerbabuena,Typica,Washed ,7.75,7.92,7.83,7.92,7.75,7.67,10.0,10.0,1400,1400
+Arabica,Colombia,nariño,Caturra,Washed ,7.92,7.58,7.5,7.83,7.58,7.67,10.0,10.0,2527,2527
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.67,7.67,7.75,7.67,7.5,7.75,10.0,10.0,1850,1850
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,1500,1500
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.25,7.58,7.42,8.0,7.75,7.83,10.0,10.0,1,1
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.67,7.75,7.67,7.75,7.42,7.75,10.0,10.0,480,570
+Arabica,Ethiopia,oromia,Unknown,Natural ,7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,1650,1703
+Arabica,Brazil,south of minas,Bourbon,Semi-washed ,7.67,7.67,7.58,7.5,7.83,8.17,10.0,9.33,1200,1200
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,1200,1400
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,1219,1219
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.92,7.5,7.33,7.67,8.17,7.5,10.0,10.0,1260,1260
+Arabica,Ecuador,province of manabi,Unknown,Natural ,7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,800,800
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,1750,1750
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,1310,1310
+Arabica,Mexico,petatlan,Bourbon,Natural ,7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,1218,1218
+Arabica,Mexico,la concordia,Pacas,Natural ,7.67,7.58,7.5,7.75,7.75,7.75,10.0,10.0,1300,1300
+Arabica,Brazil,carmo de minas,Yellow Bourbon,Semi-washed ,7.83,7.83,7.58,7.67,7.5,7.58,10.0,10.0,1250,1250
+Arabica,Kenya,nyeri,SL28,Washed ,7.75,7.58,7.5,7.58,7.75,7.75,10.0,10.0,1800,1800
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,890,890
+Arabica,Colombia,huila,Caturra,Washed ,7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,442,442
+Arabica,Taiwan,台南市東山區 (dongshan dist.,Typica,Natural ,7.67,7.67,7.58,7.58,7.67,7.83,10.0,10.0,750,750
+Arabica,China,yunnan,Catimor,Washed ,7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,1650,1650
+Arabica,Colombia,huila,Caturra,Natural ,7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,442,442
+Arabica,Uganda,west nile,Bourbon,Natural ,8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,1400,1400
+Arabica,United States (Puerto Rico),yauco region,Other,Washed ,7.83,7.83,7.83,7.67,8.0,8.17,9.33,10.0,853,853
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,1600,1950
+Arabica,Colombia,huila,Other,Washed ,7.67,7.42,7.42,7.42,8.0,8.33,10.0,10.0,1500,1600
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,1750,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.67,7.75,7.58,7.42,8.0,10.0,10.0,1750,1750
+Arabica,Mexico,huazalingo,Caturra,Natural ,7.83,7.58,7.58,7.5,7.75,7.67,10.0,10.0,700,700
+Arabica,Guatemala,quetzaltenango,Caturra,Washed ,7.67,7.58,7.58,7.67,7.75,7.75,10.0,10.0,1300,1300
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.67,7.83,7.5,7.67,7.67,7.5,10.0,10.0,890,890
+Arabica,Kenya,meru county,SL28,Washed ,8.08,7.67,7.67,7.58,7.25,7.67,10.0,10.0,1700,1700
+Arabica,Honduras,comayagua,Caturra,Washed ,7.5,7.5,7.67,7.67,8.0,8.0,10.0,10.0,1400,1400
+Arabica,Nicaragua,jinotega,Caturra,Washed ,7.67,7.75,7.67,7.67,7.83,7.58,10.0,10.0,1250,1250
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.58,7.75,7.58,7.75,7.58,7.58,10.0,10.0,934,934
+Arabica,Taiwan,leye,Caturra,Natural ,7.5,7.67,7.33,7.92,7.83,7.67,10.0,10.0,1200,1200
+Arabica,Thailand,thailand,Unknown,Washed ,7.5,7.75,7.58,7.83,7.67,7.58,10.0,10.0,800,800
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.75,7.5,7.75,7.67,7.67,10.0,10.0,1550,1700
+Arabica,Guatemala,huehuetenango,Bourbon,Washed ,8.0,7.5,7.33,8.0,8.0,8.0,10.0,10.0,1356,1356
+Arabica,Colombia,huila supremo,Caturra,Washed ,7.83,7.75,7.67,7.58,7.58,7.67,10.0,10.0,1750,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,1800,2000
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,7.67,7.42,7.67,8.0,7.75,10.0,10.0,1310,1310
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.83,7.67,7.33,7.67,7.67,7.83,10.0,10.0,1310,1310
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.75,7.58,7.83,7.17,7.75,10.0,10.0,1750,1750
+Arabica,Guatemala,oriente,Caturra,Natural ,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,1450,1450
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,8.17,7.5,7.42,7.58,7.83,10.0,10.0,1310,1310
+Arabica,Mexico,xicotepec de juarez,Typica,Washed ,7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,1100,1100
+Arabica,Indonesia,east java,Typica,Washed ,8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,1200,1600
+Arabica,Guatemala,sacatepequez,Caturra,Washed ,7.67,7.5,7.33,8.0,7.67,7.67,10.0,10.0,1524,1524
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.58,7.67,7.58,7.58,7.67,7.58,10.0,10.0,890,890
+Arabica,Guatemala,huehuetenango,Caturra,Washed ,7.75,7.75,7.5,7.83,7.58,7.58,10.0,10.0,1128,1128
+Arabica,China,yunnan,Catimor,Washed ,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,1100,1100
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.75,7.58,7.67,7.75,7.58,10.0,10.0,1600,1950
+Arabica,Mexico,chiapas,Caturra,Washed ,7.75,7.75,7.58,7.58,7.5,7.67,10.0,10.0,1200,1200
+Arabica,Ethiopia,yirgacheffe,Other,Washed ,7.75,7.67,7.58,7.67,7.5,7.67,10.0,10.0,1700,2000
+Arabica,Uganda,eastern,SL14,Washed ,7.67,7.67,7.42,7.75,7.75,7.67,10.0,10.0,1800,1800
+Arabica,Colombia,cundinamarca,Caturra,Natural ,7.67,7.58,7.67,7.67,7.67,7.67,10.0,10.0,1600,1600
+Arabica,Colombia,santander,Caturra,Washed ,7.67,7.58,7.67,7.58,7.67,7.75,10.0,10.0,1550,1550
+Arabica,Colombia,santander,Caturra,Washed ,7.75,7.58,7.5,7.58,7.75,7.83,10.0,10.0,1550,1550
+Arabica,Taiwan,taichung xinshe 台中市新社區,Typica,Other,7.75,7.75,7.75,7.75,7.5,7.58,10.0,10.0,1000,1000
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.67,7.58,7.67,7.75,7.58,10.0,10.0,1600,1950
+Arabica,Mexico,xalapa,Typica,Washed ,7.83,7.67,7.58,7.58,7.67,7.58,10.0,10.0,1000,1000
+Arabica,Colombia,cundinamarca,Caturra,Natural ,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,2136,2136
+Arabica,Brazil,south of minas,Catuai,Semi-washed ,7.83,7.75,7.5,7.75,7.5,7.58,10.0,10.0,1100,1100
+Arabica,Colombia,cundinamarca,Caturra,Washed ,7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,1799,1799
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.92,7.42,7.5,7.67,7.5,7.67,10.0,10.0,1850,1850
+Arabica,Colombia,pitalito,Caturra,Natural ,7.75,7.58,7.58,7.5,7.75,7.75,10.0,10.0,1000,1000
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,7.75,7.5,7.83,7.58,7.58,10.0,10.0,1219,1219
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.58,7.58,7.58,7.75,7.67,10.0,10.0,1600,1950
+Arabica,"Tanzania, United Republic Of",nkure- meru,Ruiru 11,Washed ,7.75,7.67,7.58,7.67,7.67,7.58,10.0,10.0,1400,1400
+Arabica,Indonesia,bener meriah,Sumatra,Semi-washed ,7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,1500,1500
+Arabica,Ethiopia,oromia,Unknown,Natural ,7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,1600,1600
+Arabica,Colombia,huila,Caturra,Washed ,8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,1850,1850
+Arabica,Guatemala,atitlan,Caturra,Washed ,7.58,7.75,7.5,7.83,7.42,7.67,10.0,10.0,1400,1400
+Arabica,Colombia,cundinamarca,Caturra,Washed ,7.75,7.58,7.33,7.5,7.83,7.83,10.0,10.0,1650,1650
+Arabica,Honduras,comayagua,Caturra,Natural ,7.67,7.5,7.67,7.5,7.67,7.67,10.0,10.0,1350,1350
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.75,7.42,7.67,7.75,7.67,10.0,10.0,1750,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.67,7.58,7.75,7.58,7.75,10.0,10.0,1750,1750
+Arabica,Mexico,xalapa,Bourbon,Natural ,7.83,7.58,7.25,7.5,7.5,7.42,10.0,10.0,1170,1170
+Arabica,Mexico,chilón,Typica,Semi-washed ,7.67,7.75,7.67,7.75,7.58,7.5,10.0,10.0,940,940
+Arabica,Mexico,totutla,Pacamara,Washed ,7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,1400,1400
+Arabica,Guatemala,atitlan,Caturra,Washed ,7.83,7.5,7.5,8.0,7.67,7.5,10.0,10.0,1524,1524
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.58,7.58,7.67,7.67,7.67,10.0,10.0,1600,1950
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.5,7.75,7.5,8.0,7.67,10.0,10.0,1402,1402
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.58,7.58,7.5,7.75,7.83,10.0,10.0,439,439
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.67,7.75,7.5,7.58,7.58,7.67,10.0,10.0,1700,1700
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.67,7.5,7.67,7.67,7.58,10.0,10.0,442,442
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.58,7.5,7.42,7.92,7.5,7.67,10.0,10.0,1850,1850
+Arabica,Uganda,eastern,SL14,Washed ,7.58,7.75,7.33,7.75,7.67,7.58,10.0,10.0,1800,1800
+Arabica,Thailand,thailand,Catimor,Washed ,7.5,7.58,7.75,7.5,7.75,7.67,10.0,10.0,1200,1200
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.58,7.5,7.75,7.58,7.75,7.67,10.0,10.0,1330,1330
+Arabica,Colombia,huila,Caturra,Natural ,7.58,7.67,7.58,7.67,7.58,7.67,10.0,10.0,442,442
+Arabica,"Tanzania, United Republic Of",karatu northern,Bourbon,Washed ,7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,1600,1600
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.58,7.25,7.75,7.75,8.58,10.0,10.0,1813,1813
+Arabica,Guatemala,oriente,Bourbon,Natural ,7.75,7.83,7.33,7.83,7.5,7.67,10.0,10.0,1219,1219
+Arabica,Guatemala,antigua,Caturra,Washed ,7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,1500,1500
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,1310,1310
+Arabica,Colombia,cundinamarca,Caturra,Washed ,7.5,7.75,7.58,7.5,7.67,7.75,10.0,10.0,1450,1450
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.5,7.75,7.58,7.58,7.58,10.0,10.0,1650,1650
+Arabica,Brazil,south of minas,Catuai,Semi-washed ,7.5,7.83,7.33,7.58,7.58,7.92,10.0,10.0,1227,1227
+Arabica,Mexico,chiapas,Caturra,Washed ,7.75,7.75,7.5,7.67,7.5,7.58,10.0,10.0,1200,1200
+Arabica,Colombia,santander,Caturra,Washed ,7.67,7.75,7.42,7.83,7.83,7.42,10.0,10.0,1650,1650
+Arabica,"Tanzania, United Republic Of",arusha,Other,Semi-washed ,7.75,7.58,7.67,7.58,7.58,7.58,10.0,10.0,1700,1700
+Arabica,Mexico,veracruz,Other,Washed ,7.67,7.67,7.58,7.67,7.5,7.58,10.0,10.0,1100,1100
+Arabica,Costa Rica,san ramon,Caturra,Washed ,7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,1300,1300
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,1100,1300
+Arabica,Haiti,thiotte,Typica,Washed ,7.58,7.5,7.67,7.5,7.83,7.42,10.0,10.0,1280,1280
+Arabica,Colombia,pitalito,Caturra,Natural ,7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,1000,1000
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,1310,1310
+Arabica,Burundi,kayanza,Bourbon,Washed ,7.75,7.67,7.33,7.5,7.5,7.75,10.0,10.0,1880,1880
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.67,7.67,7.58,7.67,7.58,10.0,10.0,1750,1750
+Arabica,Mexico,sierra madre occidental,Typica,Washed ,7.67,7.83,7.42,7.83,7.33,7.5,10.0,10.0,1600,1600
+Arabica,Costa Rica,tarrazu,Catuai,Pulped natural ,7.5,7.5,7.83,7.5,7.67,7.67,10.0,10.0,1900,1900
+Arabica,Guatemala,nuevo oriente,Pacas,Washed ,7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,2100,2100
+Arabica,Colombia,huila,Caturra,Natural ,7.58,7.67,7.67,7.17,7.75,7.83,10.0,10.0,442,442
+Arabica,Mexico,cuarenteño,Typica,Natural ,7.83,7.75,7.5,7.58,7.58,7.58,10.0,10.0,1261,1261
+Arabica,Taiwan,natou county,Bourbon,Washed ,7.67,7.5,7.5,7.5,7.67,7.83,10.0,10.0,1000,1000
+Arabica,Taiwan,南投國姓,Typica,Washed ,7.92,7.83,7.75,7.58,7.5,7.33,10.0,10.0,800,800
+Arabica,Colombia,eje cafetero,Caturra,Natural ,7.58,7.58,7.5,7.58,7.58,7.75,10.0,10.0,1483,1483
+Arabica,Guatemala,antigua,Caturra,Washed ,7.5,7.67,7.58,7.67,7.67,7.5,10.0,10.0,1500,1500
+Arabica,Colombia,huila,Caturra,Washed ,7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,1750,1750
+Arabica,Mexico,chiapas,Bourbon,Washed ,7.58,7.75,7.5,7.5,7.58,7.58,10.0,10.0,1300,1300
+Arabica,Mexico,fortín de las flores,Caturra,Washed ,7.75,7.75,7.42,7.92,7.33,7.5,10.0,10.0,1000,1000
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.83,7.58,7.08,7.83,7.42,8.08,10.0,10.0,1310,1310
+Arabica,Brazil,grama valley,Yellow Bourbon,Semi-washed ,7.75,7.67,7.5,7.58,7.58,7.58,10.0,10.0,1200,1200
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.58,7.58,7.42,7.83,7.58,10.0,10.0,175,175
+Arabica,Colombia,la plata,Caturra,Washed ,7.67,7.67,7.5,7.5,7.58,7.67,10.0,10.0,1600,1950
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.67,7.42,7.5,7.58,7.67,7.58,10.0,10.0,890,890
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,1901,1901
+Arabica,"Tanzania, United Republic Of",moshi,Bourbon,Washed ,7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,168,168
+Arabica,Vietnam,dala,Catimor,Natural ,7.58,7.42,7.08,7.33,7.58,8.58,10.0,10.0,1550,1550
+Arabica,Guatemala,antigua,Caturra,Washed ,7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,1500,1500
+Arabica,Honduras,marcala,Catuai,Washed ,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,1450,1450
+Arabica,China,yunnan,Catimor,Washed ,7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,1200,1200
+Arabica,China,dehong prefecture,Catimor,Washed ,7.67,7.67,7.5,7.67,7.42,7.58,10.0,10.0,1600,1600
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.5,7.5,7.33,7.67,8.0,7.67,10.0,10.0,1350,1350
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.5,7.75,7.5,7.83,7.58,7.5,10.0,10.0,1500,1500
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,1400,1900
+Arabica,Kenya,kenya,SL28,Washed ,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,1,500
+Arabica,Thailand,thailand,Unknown,Washed ,7.67,7.58,7.58,7.75,7.42,7.67,10.0,10.0,800,800
+Arabica,"Tanzania, United Republic Of",mbinga,Other,Washed ,7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,1653,1653
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,1600,1950
+Arabica,Uganda,eastern,SL14,Washed ,8.0,7.67,7.5,7.42,7.33,7.58,10.0,10.0,1800,1800
+Arabica,Honduras,san marcos,Catuai,Natural ,7.5,7.5,7.5,7.67,7.67,7.67,10.0,10.0,1450,1450
+Arabica,Honduras,comayagua,Caturra,Natural ,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,1350,1350
+Arabica,Guatemala,san marcos,Catuai,Washed ,7.33,7.83,7.17,8.17,7.33,7.67,10.0,10.0,1524,1524
+Arabica,"Tanzania, United Republic Of",kilimanjaro,Bourbon,Washed ,7.58,7.5,7.58,7.75,7.58,7.58,10.0,10.0,1800,1800
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,7.83,7.33,7.67,7.5,7.67,10.0,10.0,1310,1310
+Arabica,Mexico,chiapas,Typica,Washed ,7.75,7.58,7.58,7.58,7.5,7.42,10.0,10.0,1500,1500
+Arabica,Mexico,tlanchinol,Typica,Washed ,7.75,7.67,7.58,7.5,7.42,7.58,10.0,10.0,532,532
+Arabica,Mexico,san bartolo tutotepec,Pacamara,Washed ,7.58,7.75,7.42,7.67,7.5,7.58,10.0,10.0,1089,1089
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.5,7.5,7.5,7.58,8.17,10.0,10.0,1600,1950
+Arabica,Mexico,san isidro,Typica,Washed ,7.75,7.5,7.42,7.75,7.58,7.58,10.0,10.0,700,700
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.67,7.5,7.58,7.67,7.67,10.0,10.0,1750,1750
+Arabica,Mexico,la concordia,Typica,Washed ,7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,1380,1380
+Arabica,Brazil,south of minas,Mundo Novo,Natural ,7.75,7.67,7.58,7.5,7.58,7.58,10.0,10.0,1000,1000
+Arabica,Brazil,mogiana,Mundo Novo,Natural ,7.92,7.58,7.5,7.58,7.42,7.5,10.0,10.0,950,950
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.75,7.5,7.67,7.5,7.92,8.0,10.0,9.33,1402,1402
+Arabica,Brazil,south of minas,Mundo Novo,Semi-washed ,7.75,7.5,7.58,7.5,7.75,7.5,10.0,10.0,1000,1000
+Arabica,Colombia,cundinamarca,Caturra,Washed ,7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,1799,1799
+Arabica,Brazil,south of minas,Yellow Bourbon,Pulped natural ,7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,905,905
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.33,7.67,7.67,7.33,7.75,7.42,10.0,10.0,1,1
+Arabica,Taiwan,dongshan dist.,Typica,Natural ,7.83,7.92,7.5,7.83,7.67,7.25,10.0,10.0,700,800
+Arabica,Brazil,south of minas,Bourbon,Washed ,7.58,7.83,7.67,7.42,7.42,7.5,10.0,10.0,1200,1200
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.83,7.33,7.5,7.67,7.58,7.67,10.0,10.0,1200,1400
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,Typica,Other,7.75,7.75,7.5,7.5,7.5,7.5,10.0,10.0,1300,1300
+Arabica,Mexico,santa catarina juquila,Other,Washed ,7.75,7.67,7.42,7.75,7.5,7.5,10.0,10.0,1400,1400
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.58,7.5,7.5,7.75,7.67,7.5,10.0,10.0,890,890
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,894,894
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,872,872
+Arabica,Uganda,kasese,Bourbon,Washed ,7.67,7.58,7.42,7.42,7.83,7.5,10.0,10.0,1473,1473
+Arabica,Uganda,kasese,Bourbon,Natural ,7.67,7.67,7.5,7.58,7.42,7.5,10.0,10.0,1645,1645
+Arabica,Vietnam,vietnam cau dat,Caturra,Other,7.75,7.67,7.58,7.58,7.42,7.67,10.0,10.0,1550,1550
+Arabica,Guatemala,nuevo oriente,Catuai,Washed ,7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,1300,1800
+Arabica,Guatemala,el tumbador,Catuai,Washed ,7.75,7.67,7.33,7.75,7.5,7.42,10.0,10.0,1371,1371
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,1500,1500
+Arabica,Brazil,high mogiana,Catuai,Natural ,7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,900,1100
+Arabica,Taiwan,嘉義阿里山,Typica,Washed ,7.92,7.92,7.83,7.58,7.33,7.25,10.0,10.0,1200,1200
+Arabica,Uganda,kapchorwa,SL14,Washed ,7.83,7.58,7.5,7.5,7.58,7.5,10.0,10.0,1800,1800
+Arabica,United States (Puerto Rico),yauco region,Other,Washed ,7.67,7.5,7.67,7.83,7.75,7.83,10.0,9.33,853,853
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,1500,1500
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,1100,1300
+Arabica,Brazil,sul de minas,Yellow Bourbon,Semi-washed ,7.75,7.58,7.42,7.67,7.42,7.67,10.0,10.0,1250,1250
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,1600,1950
+Arabica,Colombia,huila,Caturra,Washed ,7.83,7.5,7.58,7.33,7.5,7.67,10.0,10.0,1750,1750
+Arabica,Colombia,pitalito,Caturra,Natural ,7.33,7.67,7.75,7.42,7.75,7.58,10.0,10.0,1000,1000
+Arabica,Colombia,pitalito,Caturra,Natural ,7.58,7.75,7.42,7.67,7.58,7.42,10.0,10.0,1000,1000
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.5,7.42,7.58,7.75,7.58,10.0,10.0,1600,1950
+Arabica,Mexico,coatepec,Typica,Washed ,7.67,7.58,7.42,7.5,7.67,7.58,10.0,10.0,750,750
+Arabica,Mexico,atoyac de alvarez,Typica,Semi-washed ,7.67,7.83,7.5,7.58,7.58,7.67,10.0,10.0,1200,1200
+Arabica,Mexico,coatepec,Bourbon,Washed ,7.5,7.67,7.5,7.5,7.58,7.58,10.0,10.0,1200,1200
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.58,7.5,7.67,7.83,7.75,10.0,10.0,1500,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.58,7.58,7.58,7.67,7.42,10.0,10.0,1750,1750
+Arabica,Guatemala,la reforma,Bourbon,Washed ,7.5,7.67,7.5,7.67,7.5,7.83,10.0,10.0,1371,1371
+Arabica,Colombia,la plata,Caturra,Washed ,7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,1600,1950
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.67,7.58,7.5,7.58,7.58,7.5,10.0,10.0,890,890
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.5,7.5,7.75,7.58,7.92,7.83,10.0,9.33,1350,1350
+Arabica,Colombia,guayata,Caturra,Washed ,7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,1500,1500
+Arabica,Taiwan,dongshan dist.,Caturra,Natural ,7.17,7.83,7.25,7.67,7.67,7.58,10.0,10.0,350,350
+Arabica,Ethiopia,blida,Ethiopian Heirlooms,Washed ,7.58,7.58,7.5,7.5,7.58,7.58,10.0,10.0,2000,2000
+Arabica,Taiwan,台東太麻里,Typica,Natural ,7.5,7.58,7.67,7.33,7.5,7.75,10.0,10.0,775,775
+Arabica,Philippines,bukidnon,Other,Washed ,7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,1200,1200
+Arabica,Philippines,asia pacific,Other,Washed ,8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,1600,1600
+Arabica,Mexico,cuarenteño,Typica,Natural ,7.83,7.67,7.25,7.58,7.5,7.5,10.0,10.0,1059,1059
+Arabica,Mexico,chiapas,Bourbon,Washed ,7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,1300,1300
+Arabica,Brazil,cerrado,Moka Peaberry,Semi-washed ,7.08,7.5,7.5,7.83,7.75,7.67,10.0,10.0,11000,11000
+Arabica,Uganda,eastern,SL14,Washed ,8.0,7.5,7.5,7.58,7.33,7.42,10.0,10.0,1400,1900
+Arabica,Uganda,west nile,SL14,Washed ,7.75,7.58,7.58,7.5,7.5,7.5,10.0,10.0,1400,1400
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,1500,1500
+Arabica,Guatemala,antigua,Caturra,Natural ,7.67,7.83,7.42,7.5,7.33,7.5,10.0,10.0,1500,1500
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,1800,2000
+Arabica,Colombia,huila,Caturra,Natural ,7.75,7.5,7.25,7.5,7.75,7.5,10.0,10.0,1750,1750
+Arabica,Guatemala,huehuetenango,Bourbon,Washed ,7.83,7.75,7.25,7.92,7.5,7.17,10.0,10.0,1658,1755
+Arabica,Colombia,antioquia,Other,Washed ,7.83,7.67,7.42,7.42,7.5,7.58,10.0,10.0,1450,1450
+Arabica,Mexico,petatlan,Typica,Natural ,7.58,7.58,7.33,7.25,7.58,7.75,10.0,10.0,1248,1248
+Arabica,Vietnam,don duong,Other,Natural ,7.67,7.33,7.17,7.58,8.08,7.42,10.0,10.0,1040,1040
+Arabica,Mexico,la cumbre,Typica,Washed ,8.0,7.92,7.67,7.17,7.67,7.42,10.0,10.0,1400,1400
+Arabica,Kenya,nyeri,SL28,Washed ,7.75,7.58,7.42,7.58,7.5,7.5,10.0,10.0,1754,1754
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.5,7.58,7.33,7.67,7.58,7.58,10.0,10.0,1700,1700
+Arabica,Brazil,south of minas,Yellow Bourbon,Pulped natural ,7.67,7.58,7.58,7.5,7.5,7.42,10.0,10.0,905,905
+Arabica,El Salvador,el balsamo,Pacas,Washed ,7.33,7.67,7.67,7.83,7.33,7.67,10.0,10.0,1250,1250
+Arabica,Rwanda,gicumbi,Bourbon,Washed ,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,1900,1900
+Arabica,Vietnam,vietnam tutra,Other,Other,7.25,7.58,7.5,7.42,7.75,7.42,10.0,10.0,1040,1040
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,1219,1219
+Arabica,Brazil,cerrado,Catuai,Natural ,7.58,7.83,7.33,7.67,7.42,7.33,10.0,10.0,900,900
+Arabica,Colombia,huila,Other,Washed ,7.83,7.67,7.5,7.58,7.5,7.67,10.0,10.0,1200,2000
+Arabica,United States,berastagi,Other,Other,7.42,7.58,7.25,7.5,7.75,7.75,10.0,10.0,1200,1200
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.67,7.67,7.75,7.67,7.42,7.17,10.0,10.0,1500,1500
+Arabica,Colombia,santander,Typica,Natural ,7.5,7.42,7.58,7.5,7.58,7.58,10.0,10.0,1800,1800
+Arabica,Colombia,huila,Caturra,Washed ,7.83,7.5,7.5,7.42,7.5,7.5,10.0,10.0,1600,1950
+Arabica,"Tanzania, United Republic Of",arusha,Arusha,Washed ,7.67,7.5,7.33,7.25,7.58,7.75,10.0,10.0,1400,1400
+Arabica,Mexico,la concordia,Caturra,Washed ,7.58,7.67,7.5,7.58,7.5,7.5,10.0,10.0,1550,1550
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.67,7.58,7.42,7.75,7.42,7.42,10.0,10.0,1250,1250
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,1310,1310
+Arabica,Mexico,la concordia,Typica,Washed ,7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,1380,1380
+Arabica,Guatemala,santa rosa,Caturra,Washed ,7.5,7.58,7.42,7.67,7.58,7.5,10.0,10.0,1100,1100
+Arabica,Guatemala,santa rosa,Caturra,Washed ,7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,1800,1800
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.5,7.67,7.17,7.67,7.67,7.58,10.0,10.0,1700,1700
+Arabica,Guatemala,santa rosa,Bourbon,Washed ,7.5,7.5,7.42,7.58,7.67,7.5,10.0,10.0,1219,1219
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,1219,1219
+Arabica,Indonesia,sapan toraja,Sulawesi,Other,7.5,7.58,7.42,7.58,7.58,7.5,10.0,10.0,1500,1500
+Arabica,Guatemala,el progreso,Bourbon,Washed ,7.58,7.58,7.33,7.58,7.33,7.67,10.0,10.0,157,157
+Arabica,Taiwan,台南市東山區( dongshan dist.,Yellow Bourbon,Natural ,7.83,7.67,7.33,7.67,7.58,7.67,10.0,10.0,650,650
+Arabica,El Salvador,cacahuatique,Bourbon,Washed ,7.67,7.67,7.17,7.33,7.58,7.67,10.0,10.0,1250,1250
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.58,7.5,7.42,7.67,7.42,7.5,10.0,10.0,1850,1850
+Arabica,Honduras,comayagua,Caturra,Natural ,7.58,7.5,7.42,7.58,7.5,7.5,10.0,10.0,1400,1400
+Arabica,Brazil,south of minas,Yellow Bourbon,Pulped natural ,7.5,7.5,7.58,7.5,7.58,7.58,10.0,10.0,905,905
+Arabica,China,yunnan,Catimor,Natural ,7.67,7.5,7.33,7.33,7.67,7.67,10.0,10.0,1100,1100
+Arabica,China,menglian,Catimor,Washed ,7.5,7.67,7.42,7.67,7.5,7.5,10.0,10.0,1500,1500
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.58,7.58,7.75,7.33,7.5,10.0,10.0,1600,1950
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.75,7.58,7.42,7.5,7.33,7.5,10.0,10.0,1442,1442
+Arabica,Guatemala,jalapa,Pacas,Washed ,7.75,7.42,7.25,7.75,7.5,7.67,10.0,10.0,1524,1524
+Arabica,Colombia,huila,Typica,Washed ,7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,165,165
+Arabica,Colombia,antioquia,Caturra,Washed ,7.58,7.33,7.17,7.33,7.25,8.58,10.0,10.0,1300,1300
+Arabica,Mexico,chiapas,Typica,Washed ,7.58,7.58,7.5,7.5,7.5,7.5,10.0,10.0,1550,1550
+Arabica,Mexico,veracruz,Typica,Washed ,7.58,7.58,7.33,7.75,7.25,7.58,10.0,10.0,1200,1200
+Arabica,Mexico,atoyac de alvarez,Typica,Natural ,8.08,8.17,8.0,8.0,7.83,7.92,10.0,10.0,1200,1200
+Arabica,Colombia,south huila,Caturra,Washed ,7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,1400,1850
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.58,7.58,7.58,7.5,7.42,10.0,10.0,1600,1950
+Arabica,Panama,boquete,Catuai,Washed ,7.42,7.42,7.5,7.58,7.5,7.75,10.0,10.0,1100,1100
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.58,7.25,7.75,7.58,7.5,10.0,10.0,890,890
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.58,7.5,7.67,7.5,7.42,10.0,10.0,934,934
+Arabica,Laos,paksong,Catimor,Washed ,7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,1300,1300
+Arabica,El Salvador,el balsamo,Pacas,Washed ,7.67,7.67,7.67,7.67,7.5,7.67,10.0,9.33,1200,1200
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.58,7.5,7.42,7.67,7.5,7.5,10.0,10.0,1,1
+Arabica,"Tanzania, United Republic Of",karatu arusha,Other,Washed ,7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,1700,1700
+Arabica,"Tanzania, United Republic Of",mbinga,Bourbon,Washed ,7.58,7.5,7.5,7.58,7.33,7.58,10.0,10.0,1550,1550
+Arabica,Taiwan,嘉義阿里山,Typica,Washed ,8.0,7.83,7.83,7.42,7.25,7.25,10.0,10.0,1200,1200
+Arabica,Mexico,la yerba,Typica,Natural ,7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,1296,1296
+Arabica,Uganda,mt elgon,SL14,Washed ,7.67,7.5,7.33,7.67,7.5,7.5,10.0,10.0,1400,1900
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,Typica,Washed ,7.67,7.5,7.5,7.5,7.5,7.5,10.0,10.0,1240,1240
+Arabica,Thailand,phahi,Caturra,Washed ,7.42,7.5,7.5,7.67,7.58,7.5,10.0,10.0,1500,1500
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.58,7.67,7.25,7.58,7.42,10.0,10.0,1800,1800
+Arabica,Guatemala,antigua,Caturra,Washed ,7.67,7.67,7.17,7.67,7.5,7.5,10.0,10.0,1500,1500
+Arabica,Mexico,mahuixtlan,Typica,Washed ,7.5,7.58,7.58,7.58,7.42,7.42,10.0,10.0,950,950
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.42,7.42,7.75,7.5,7.5,10.0,10.0,1219,1219
+Arabica,Taiwan,國姓鄉 guoshing township,Typica,Pulped natural ,7.67,7.42,7.5,7.42,7.58,7.5,10.0,10.0,1050,1050
+Arabica,Indonesia,aceh,Typica,Semi-washed ,7.83,7.58,7.42,7.33,7.42,7.5,10.0,10.0,1200,1300
+Arabica,Thailand,thailand,Unknown,Washed ,7.75,7.33,7.42,7.67,7.42,7.5,10.0,10.0,800,800
+Arabica,Thailand,chiangrai,Caturra,Washed ,7.42,7.58,7.58,7.42,7.58,7.5,10.0,10.0,1400,1500
+Arabica,"Tanzania, United Republic Of",ikand village,Other,Washed ,7.75,7.42,7.33,7.5,7.58,7.5,10.0,10.0,1317,1317
+Arabica,Uganda,eastern,SL14,Natural ,7.83,7.5,7.42,7.58,7.42,7.42,10.0,10.0,1400,1900
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,1200,1400
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.25,7.33,7.42,7.5,7.83,10.0,10.0,1750,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.75,7.5,7.75,7.25,7.33,7.58,10.0,10.0,1750,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.58,7.5,7.42,7.58,7.67,7.42,10.0,10.0,1750,1750
+Arabica,Mexico,oaxaca,Typica,Washed ,7.5,7.58,7.5,7.5,7.42,7.5,10.0,10.0,1250,1250
+Arabica,Mexico,colima,Typica,Washed ,7.67,7.58,7.58,7.75,7.67,6.83,10.0,10.0,1150,1150
+Arabica,Colombia,huila,Caturra,Washed ,7.33,7.42,7.58,7.42,7.67,7.5,10.0,10.0,1600,1950
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.5,7.5,7.5,7.58,7.5,10.0,10.0,890,890
+Arabica,Indonesia,bali,Other,Washed ,7.83,7.75,7.25,7.5,7.42,7.33,10.0,10.0,1250,1250
+Arabica,Honduras,comayagua,Caturra,Washed ,7.58,7.58,7.33,7.5,7.5,7.5,10.0,10.0,1400,1400
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.5,7.33,7.5,7.67,7.5,10.0,10.0,1219,1219
+Arabica,Thailand,thailand,Unknown,Washed ,7.5,7.83,7.5,7.75,7.33,7.42,10.0,10.0,800,800
+Arabica,Thailand,chiangrai,Caturra,Washed ,7.33,7.5,7.5,7.5,7.67,7.5,10.0,10.0,1400,1500
+Arabica,"Tanzania, United Republic Of",karatu arusha,Other,Washed ,7.67,7.42,7.33,7.58,7.5,7.5,10.0,10.0,1600,1600
+Arabica,Mexico,chiapas,Other,Washed ,7.42,7.58,7.5,7.67,7.25,7.5,10.0,10.0,1500,1700
+Arabica,Brazil,south of minas,Yellow Bourbon,Semi-washed ,7.42,7.5,7.67,7.33,7.42,7.67,10.0,10.0,1260,1260
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.83,7.42,7.33,7.67,7.42,7.5,10.0,10.0,1310,1310
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.5,7.42,7.42,7.58,7.58,10.0,10.0,1750,1750
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.83,7.67,7.17,7.33,7.5,7.67,10.0,10.0,1310,1310
+Arabica,Mexico,san bartolo tutotepec,Typica,Washed ,7.5,7.58,7.5,7.5,7.42,7.42,10.0,10.0,1679,1679
+Arabica,Mexico,zapotitlan de mendez,Typica,Washed ,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,1100,1100
+Arabica,Mexico,la concordia,Typica,Semi-washed ,7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,1650,1650
+Arabica,Brazil,carmo de minas,Bourbon,Semi-washed ,7.67,7.42,7.33,7.67,7.5,7.5,10.0,10.0,1250,1250
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,1600,1950
+Arabica,Honduras,comayagua,Other,Washed ,7.42,7.67,7.17,7.58,7.58,7.5,10.0,10.0,1500,1500
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,1700,1700
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.67,7.58,7.25,7.67,7.42,7.33,10.0,10.0,1700,1700
+Arabica,Guatemala,el progreso,Bourbon,Washed ,7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,157,157
+Arabica,Colombia,guayata,Caturra,Washed ,5.08,7.75,7.83,7.75,7.83,8.08,10.0,10.0,1600,1600
+Arabica,China,yunnan,Catimor,Washed ,7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,1600,1600
+Arabica,"Tanzania, United Republic Of",arusha meru,Ruiru 11,Washed ,7.67,7.25,7.42,7.42,7.67,7.42,10.0,10.0,2285,2285
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.17,7.83,7.33,7.5,7.75,7.42,10.0,10.0,1,1
+Arabica,Guatemala,atitlan,Caturra,Washed ,7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,1400,1400
+Arabica,Mexico,la yerba,Typica,Washed ,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,1296,1296
+Arabica,Brazil,south of minas,Catuai,Semi-washed ,7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,1000,1000
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.25,7.33,7.25,7.5,7.42,7.5,10.0,10.0,1260,1260
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.5,7.58,7.5,7.92,7.42,7.67,10.0,10.0,1170,1170
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.42,7.33,7.5,7.58,7.5,10.0,10.0,1600,1950
+Arabica,Mexico,chiapas,Typica,Washed ,7.5,7.42,7.42,7.67,7.42,7.58,10.0,10.0,1560,1560
+Arabica,Mexico,san pedro cotzilnam,Typica,Semi-washed ,7.42,7.58,7.5,7.42,7.58,7.5,10.0,10.0,1400,1400
+Arabica,Mexico,coatepec,Typica,Washed ,7.42,7.58,7.33,7.58,7.5,7.5,10.0,10.0,1300,1300
+Arabica,Mexico,xalapa,Caturra,Washed ,7.75,7.33,7.25,7.58,7.58,7.33,10.0,10.0,1170,1170
+Arabica,Mexico,zihuatanejo de azueta,Typica,Washed ,7.5,7.58,7.33,7.5,7.5,7.5,10.0,10.0,1300,1300
+Arabica,Mexico,veracruz,Pacamara,Washed ,7.58,7.58,7.17,7.5,7.5,7.5,10.0,10.0,1350,1350
+Arabica,Mexico,xicotepec de juarez,Caturra,Washed ,7.58,7.33,7.33,7.58,7.5,7.5,10.0,10.0,1150,1150
+Arabica,Mexico,progreso santa rosa teocelo,Bourbon,Washed ,7.67,7.58,7.33,7.42,7.58,7.33,10.0,10.0,1250,1250
+Arabica,Mexico,fln mirador,Typica,Washed ,7.83,7.5,7.42,7.67,7.17,7.33,10.0,10.0,1450,1450
+Arabica,Colombia,huila,Caturra,Natural ,7.67,7.33,7.25,7.42,7.5,7.67,10.0,10.0,442,442
+Arabica,Colombia,huila,Caturra,Washed ,7.33,7.58,7.17,7.58,7.42,7.58,10.0,10.0,1750,1750
+Arabica,Honduras,comayagua,Caturra,Washed ,7.5,7.58,7.33,7.5,7.42,7.42,10.0,10.0,1396,1396
+Arabica,Brazil,cerrado,Catuai,Natural ,7.33,7.5,7.5,7.33,7.5,7.5,10.0,10.0,982,982
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.5,7.42,7.5,7.42,7.5,10.0,10.0,934,934
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,1850,1850
+Arabica,Costa Rica,tarrazu,Catuai,Washed ,7.75,7.33,7.5,7.5,7.33,7.58,10.0,10.0,1550,1550
+Arabica,China,xishuangbanna prefecture,Catimor,Pulped natural ,7.5,7.58,7.42,7.5,7.42,7.42,10.0,10.0,1580,1580
+Arabica,Brazil,south of minas,Bourbon,Natural ,8.25,7.83,7.25,8.33,8.17,8.08,6.67,10.0,1268,1268
+Arabica,Guatemala,huehuetenango,Bourbon,Washed ,7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,1676,1676
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.33,7.58,7.42,7.58,7.33,7.5,10.0,10.0,1450,1450
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.75,8.08,7.67,8.08,8.08,8.0,10.0,6.67,1100,1100
+Arabica,Guatemala,jalapa,Pacas,Washed ,7.58,7.67,7.5,7.58,7.75,7.5,10.0,10.0,1524,1524
+Arabica,Colombia,antioquia,Caturra,Washed ,7.42,7.33,7.5,7.17,7.08,8.33,10.0,10.0,1300,1300
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,Typica,Semi-washed ,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,200,200
+Arabica,Taiwan,taichung xinshe 台中市新社區,Typica,Washed ,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,600,600
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.42,7.58,7.5,7.5,7.58,10.0,10.0,1310,1310
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.42,7.5,7.5,7.5,7.58,10.0,10.0,1750,1750
+Arabica,Mexico,la concordia,Typica,Washed ,7.67,7.5,7.42,7.5,7.42,7.42,10.0,10.0,1300,1300
+Arabica,Guatemala,jalapa,Bourbon,Washed ,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,1676,1828
+Arabica,Mexico,jaltocan,Typica,Natural ,7.58,7.67,7.58,7.33,7.0,7.58,10.0,10.0,441,441
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,1170,1170
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.67,7.33,7.5,7.33,7.5,10.0,10.0,1310,1310
+Arabica,Brazil,grama valley,Mundo Novo,Natural ,7.58,7.5,7.42,7.5,7.5,7.42,10.0,10.0,1100,1100
+Arabica,Mexico,santa catarina juquila,Typica,Washed ,8.0,7.75,7.33,7.33,7.08,7.67,10.0,10.0,1200,1400
+Arabica,Brazil,south of minas,Mundo Novo,Washed ,7.58,7.58,7.25,7.58,7.42,7.5,10.0,10.0,950,950
+Arabica,Colombia,huila,Caturra,Natural ,7.83,7.58,7.33,7.25,7.58,7.42,10.0,10.0,442,442
+Arabica,Brazil,brazil matas de minas,Catuai,Washed ,7.58,7.5,7.25,7.42,7.67,7.33,10.0,10.0,1100,1100
+Arabica,Guatemala,nuevo oriente,Pacas,Washed ,7.67,7.5,7.25,7.67,7.42,7.42,10.0,10.0,1450,1450
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.42,7.67,7.5,7.08,7.5,7.42,10.0,10.0,1,1
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,1500,1500
+Arabica,Honduras,marcala,Catuai,Washed ,7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,1350,1350
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.58,7.42,7.33,7.42,7.58,7.5,10.0,10.0,1180,1180
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.75,7.58,7.42,7.42,7.33,7.33,10.0,10.0,1100,1100
+Arabica,Taiwan,nantou,Typica,Washed ,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,650,650
+Arabica,Mexico,veracruz,Mundo Novo,Washed ,7.58,7.58,7.42,7.42,7.42,7.42,10.0,10.0,1338,1338
+Arabica,Mexico,calnali,Bourbon,Washed ,7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,533,533
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.5,7.5,7.33,7.58,7.67,7.33,10.0,10.0,1390,1390
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.5,7.58,7.42,7.67,7.33,7.42,10.0,10.0,1170,1170
+Arabica,Mexico,juquila,Typica,Washed ,7.67,7.58,7.33,7.5,7.42,7.42,10.0,10.0,1250,1250
+Arabica,Mexico,veracruz,Typica,Washed ,7.33,7.58,7.42,7.67,7.33,7.5,10.0,10.0,1100,1100
+Arabica,Mexico,canoas,Typica,Washed ,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,900,900
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.42,7.67,7.33,7.58,7.33,10.0,10.0,1750,1750
+Arabica,Colombia,huila,Caturra,Washed ,7.67,7.33,7.33,7.33,7.5,7.5,10.0,10.0,1600,1950
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.42,7.42,7.5,7.42,7.42,7.5,10.0,10.0,934,934
+Arabica,Honduras,comayagua,Caturra,Washed ,7.5,7.5,7.17,7.42,7.5,7.5,10.0,10.0,1500,1500
+Arabica,"Tanzania, United Republic Of",ruvuma,Bourbon,Washed ,7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,1500,1800
+Arabica,"Tanzania, United Republic Of",northern,Other,Washed ,7.42,7.42,7.42,7.5,7.5,7.33,10.0,10.0,1600,1600
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,6.92,7.58,7.42,7.33,7.83,7.5,10.0,10.0,1,1
+Arabica,Thailand,thailand,Unknown,Washed ,7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,800,800
+Arabica,Honduras,marcala,Catuai,Washed ,7.67,7.5,7.25,7.42,7.58,7.42,10.0,10.0,1350,1350
+Arabica,Guatemala,atitlan,Bourbon,Washed ,7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,1500,1500
+Arabica,"Tanzania, United Republic Of",ilomba vilage,Other,Washed ,7.75,7.42,7.42,7.58,7.33,7.42,10.0,10.0,1700,1700
+Arabica,Mexico,veracruz,Other,Washed ,7.42,7.33,7.17,7.42,7.33,8.17,10.0,10.0,1100,1100
+Arabica,Mexico,la concordia,Other,Washed ,7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,1200,1600
+Arabica,Taiwan,yunlin 雲林縣石壁,Typica,Other,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,1200,1200
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.67,7.5,7.5,7.17,7.17,7.58,10.0,10.0,800,800
+Arabica,Colombia,huila,Caturra,Washed ,7.33,7.25,7.25,7.58,7.75,7.5,10.0,10.0,1750,1750
+Arabica,Mexico,san bartolo tutotepec,Typica,Washed ,7.5,7.67,7.0,7.5,7.33,7.5,10.0,10.0,1144,1144
+Arabica,Guatemala,oriente,Caturra,Washed ,7.25,7.75,7.0,7.75,8.17,7.75,10.0,9.33,1350,1350
+Arabica,Mexico,altotonga,Typica,Washed ,7.5,7.58,7.25,7.5,7.5,7.33,10.0,10.0,1000,1000
+Arabica,Mexico,colima,Typica,Washed ,7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,1200,1200
+Arabica,Indonesia,aceh gayo,Bourbon,Washed ,7.5,7.5,7.42,7.42,7.5,7.42,10.0,10.0,1300,1300
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.42,7.58,7.42,7.5,7.42,7.25,10.0,10.0,894,894
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.25,7.25,7.58,7.58,7.25,7.92,10.0,10.0,1,1
+Arabica,Costa Rica,tres rios,Caturra,Washed ,7.75,7.42,7.42,7.25,7.17,7.42,10.0,10.0,1200,1400
+Arabica,"Tanzania, United Republic Of",kilimanjaro,Bourbon,Washed ,7.42,7.33,7.42,7.42,7.5,7.58,10.0,10.0,1500,1500
+Arabica,"Tanzania, United Republic Of",ngorogoro,Other,Washed ,7.42,7.5,7.5,7.33,7.33,7.5,10.0,10.0,1500,1700
+Arabica,Costa Rica,turrialba,Caturra,Washed ,7.58,7.33,7.33,7.33,7.5,7.67,10.0,10.0,13,13
+Arabica,Mexico,coatepec,Typica,Washed ,7.42,7.58,7.5,7.33,7.42,7.42,10.0,10.0,1300,1300
+Arabica,Mexico,tapachula,Typica,Washed ,7.5,7.42,7.42,7.5,7.25,7.5,10.0,10.0,1800,1800
+Arabica,Mexico,coatepec,Typica,Washed ,7.67,7.5,7.25,7.58,7.42,7.33,10.0,10.0,1250,1250
+Arabica,Vietnam,don duong,Other,Natural ,7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,1040,1040
+Arabica,Mexico,veracruz,Typica,Washed ,7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,1250,1250
+Arabica,Honduras,el paraíso,Caturra,Washed ,7.5,7.5,7.17,7.5,7.5,7.42,10.0,10.0,1600,1600
+Arabica,Honduras,guinope el paraíso,Caturra,Natural ,7.5,7.5,7.25,7.33,7.42,7.5,10.0,10.0,1600,1600
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.33,7.42,7.5,7.33,7.42,10.0,10.0,944,944
+Arabica,"Tanzania, United Republic Of",kilimanjaro,Other,Washed ,7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,1500,1800
+Arabica,Laos,lao p.d.r.,Other,Washed ,7.42,7.5,7.25,7.33,7.5,7.5,10.0,10.0,1250,1250
+Arabica,"Tanzania, United Republic Of",meru,Other,Washed ,7.42,7.42,7.33,7.58,7.33,7.42,10.0,10.0,1300,1400
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.5,7.42,7.33,7.58,7.33,7.5,10.0,10.0,2500,2500
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.33,7.5,7.17,7.42,7.5,7.33,10.0,10.0,600,600
+Arabica,Thailand,thailand,Unknown,Washed ,7.58,7.5,7.42,7.42,7.33,7.42,10.0,10.0,800,800
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,1200,1400
+Arabica,Honduras,occidental,Caturra,Washed ,7.33,7.33,7.33,7.5,7.5,7.83,10.0,10.0,1400,1400
+Arabica,Colombia,huila,Caturra,Washed ,7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,1800,2000
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.42,7.58,7.33,7.42,8.0,7.5,10.0,10.0,600,700
+Arabica,Brazil,minas gerais,Mundo Novo,Natural ,7.33,7.67,7.42,7.17,7.33,7.42,10.0,10.0,894,1183
+Arabica,Mexico,coscomatepec,Typica,Washed ,7.67,7.33,7.25,7.5,7.42,7.42,10.0,10.0,940,940
+Arabica,Brazil,south of minas,Mundo Novo,Natural ,7.42,7.5,7.33,7.5,7.33,7.5,10.0,10.0,1000,1000
+Arabica,Brazil,cerrado,Catuai,Semi-washed ,7.42,7.5,7.25,7.5,7.5,7.42,10.0,10.0,1050,1050
+Arabica,Brazil,south of minas,Mundo Novo,Semi-washed ,7.58,7.5,7.17,7.5,7.5,7.42,10.0,10.0,950,950
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.75,7.33,7.33,7.42,7.75,7.67,10.0,9.33,1402,1402
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.58,7.5,7.25,7.58,7.58,7.5,10.0,10.0,1901,1901
+Arabica,Guatemala,santa rosa,Bourbon,Washed ,7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,1219,1219
+Arabica,Honduras,comayagua,Caturra,Washed ,7.58,7.5,7.25,7.33,7.42,7.5,10.0,10.0,1400,1400
+Arabica,Brazil,monte carmelo,Catuai,Natural ,7.42,7.33,7.33,7.5,7.5,7.33,10.0,10.0,1020,1020
+Arabica,El Salvador,el balsamo,Bourbon,Washed ,7.67,7.58,7.33,7.5,7.5,7.67,10.0,9.33,1250,1250
+Arabica,Guatemala,nuevo oriente,Catuai,Washed ,7.58,7.58,7.17,7.83,7.17,7.33,10.0,10.0,1300,1800
+Arabica,"Tanzania, United Republic Of",mbeya,Other,Washed ,7.33,7.33,7.33,7.42,7.5,7.58,10.0,10.0,1877,1877
+Arabica,Zambia,mubuyu estate,SL28,Washed ,7.67,7.08,7.42,7.33,7.75,7.42,10.0,10.0,1000,1500
+Arabica,Taiwan,taichung xinshe 台中市新社區,Typica,Other,7.5,7.5,7.42,7.25,7.5,7.5,10.0,10.0,1000,1000
+Arabica,Mexico,chiapas,Bourbon,Washed ,7.58,7.5,7.25,7.58,7.5,7.25,10.0,10.0,1300,1300
+Arabica,Mexico,chapulhuacan,Typica,Semi-washed ,7.5,7.5,7.25,7.25,7.5,7.5,10.0,10.0,981,981
+Arabica,Mexico,huazalingo,Mundo Novo,Washed ,7.5,7.42,7.25,7.5,7.33,7.33,10.0,10.0,690,690
+Arabica,Mexico,veracruz,Other,Washed ,7.33,7.58,7.17,7.58,7.42,7.33,10.0,10.0,1650,1650
+Arabica,Mexico,fortín de las flores,Bourbon,Washed ,7.67,7.42,7.33,7.83,7.5,7.5,10.0,10.0,1000,1000
+Arabica,Brazil,grama valley,Mundo Novo,Natural ,7.42,7.58,7.25,7.5,7.33,7.5,10.0,10.0,1100,1100
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.42,7.5,7.25,7.5,7.33,7.42,10.0,10.0,157,157
+Arabica,Costa Rica,tarrazu,Catuai,Pulped natural ,7.25,7.33,7.5,7.33,7.67,7.42,10.0,10.0,1900,1900
+Arabica,Brazil,monte carmelo,Mundo Novo,Natural ,7.42,7.5,7.42,7.5,7.42,7.25,10.0,10.0,973,973
+Arabica,Indonesia,bali,Other,Other,7.75,7.83,7.58,7.75,7.92,7.83,10.0,10.0,1250,1250
+Arabica,Guatemala,norte,Bourbon,Washed ,7.58,7.5,7.33,7.42,7.58,7.25,10.0,10.0,3280,3280
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.17,7.58,6.83,7.5,7.75,7.25,10.0,10.0,1,1
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.58,7.0,6.92,6.92,7.67,7.5,10.0,10.0,1,1
+Arabica,Myanmar,ywar ngan,Catuai,Washed ,7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,4001,4001
+Arabica,Mexico,chiapas,Catuai,Washed ,7.58,7.5,7.33,7.5,7.17,7.33,10.0,10.0,1350,1500
+Arabica,Honduras,marcala,Catuai,Washed ,7.5,7.5,7.33,7.5,7.42,7.25,10.0,10.0,1400,1400
+Arabica,Costa Rica,tres rios,Caturra,Washed ,7.67,7.5,7.5,7.25,7.08,7.42,10.0,10.0,1200,1400
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.67,7.33,7.17,7.25,7.75,7.33,10.0,10.0,700,700
+Arabica,Indonesia,lington nihuta,Typica,Other,7.42,7.42,7.42,7.33,7.42,7.42,10.0,10.0,1300,1300
+Arabica,Malawi,kakoma,Gesha,Washed ,7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,1556,1556
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.33,7.58,7.25,7.17,7.83,7.33,10.0,10.0,1100,1100
+Arabica,Honduras,comayagua,Caturra,Natural ,7.5,7.5,7.33,7.33,7.33,7.33,10.0,10.0,1350,1350
+Arabica,Mexico,siltepec el triunfo,Typica,Washed ,7.42,7.42,7.25,7.5,7.33,7.42,10.0,10.0,1550,1550
+Arabica,Colombia,huila,Caturra,Washed ,7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,1600,1950
+Arabica,Brazil,sul de minas,Bourbon,Semi-washed ,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,1250,1250
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.83,7.67,7.33,7.33,7.67,7.83,10.0,9.33,1310,1310
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.83,7.33,7.25,7.58,7.25,7.33,10.0,10.0,1500,1500
+Arabica,Mexico,coatepec,Typica,Semi-washed ,7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,1250,1250
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.5,7.5,7.25,7.42,7.42,7.33,10.0,10.0,1700,1700
+Arabica,Vietnam,vietnam,Caturra,Washed ,7.0,7.08,7.33,7.5,7.5,7.33,10.0,10.0,1040,1040
+Arabica,"Tanzania, United Republic Of",ngorogoro,Other,Washed ,7.42,7.42,7.42,7.42,7.33,7.33,10.0,10.0,1500,1700
+Arabica,Mexico,tenango de doria,Bourbon,Washed ,7.5,7.5,7.33,7.42,7.25,7.25,10.0,10.0,774,774
+Arabica,Mexico,tepictla,Mundo Novo,Washed ,7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,1250,1250
+Arabica,Mexico,oaxaca,Typica,Washed ,7.42,7.5,7.33,7.58,7.33,7.33,10.0,10.0,1100,1100
+Arabica,Mexico,la concordia,Caturra,Washed ,7.33,7.42,7.33,7.67,7.42,7.25,10.0,10.0,1550,1550
+Arabica,Mexico,la concordia,Typica,Washed ,7.5,7.42,7.25,7.33,7.67,7.25,10.0,10.0,1650,1650
+Arabica,Colombia,huila,Caturra,Washed ,7.33,7.42,7.33,7.33,7.5,7.67,10.0,10.0,1750,1750
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.42,7.5,7.25,7.5,7.5,7.25,10.0,10.0,890,890
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.42,7.42,7.08,7.42,7.33,7.42,10.0,10.0,1700,1700
+Arabica,Guatemala,santa rosa,Bourbon,Washed ,7.42,7.33,7.17,7.67,7.33,7.42,10.0,10.0,1219,1219
+Arabica,Honduras,marcala,Catuai,Washed ,7.58,7.5,7.33,7.33,7.42,7.25,10.0,10.0,1450,1450
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.25,7.75,6.92,7.42,7.5,7.58,10.0,10.0,1,1
+Arabica,"Tanzania, United Republic Of",mbinga,Other,Washed ,7.42,7.33,7.25,7.42,7.5,7.42,10.0,10.0,1200,1800
+Arabica,"Tanzania, United Republic Of",ilomba vilage,Other,Washed ,7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,1700,1700
+Arabica,Brazil,south of minas,Bourbon,Washed ,7.25,7.42,7.25,7.5,7.5,7.42,10.0,10.0,1260,1260
+Arabica,Honduras,comayagua,Caturra,Natural ,7.5,7.33,7.5,7.5,7.17,7.17,10.0,10.0,1400,1400
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.5,7.17,7.17,7.17,7.5,7.08,10.0,10.0,1850,1850
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,Typica,Semi-washed ,7.5,7.5,7.5,7.25,7.42,7.25,10.0,10.0,150,150
+Arabica,Taiwan,nantou,Typica,Washed ,7.58,7.42,7.33,7.42,7.33,7.33,10.0,10.0,750,750
+Arabica,Mexico,la concordia,Typica,Washed ,7.5,7.42,7.08,7.58,7.33,7.33,10.0,10.0,1400,1400
+Arabica,Guatemala,jalapa,Bourbon,Washed ,7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,1676,1828
+Arabica,Mexico,tuxtla gutierrez,Typica,Washed ,7.25,7.67,7.58,7.67,7.67,7.58,10.0,10.0,1650,1650
+Arabica,Mexico,yajalon,Bourbon,Washed ,7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,1400,1400
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.5,7.42,7.33,7.42,7.42,7.42,10.0,10.0,1200,1200
+Arabica,Mexico,la concordia,Bourbon,Washed ,7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,1400,1400
+Arabica,Mexico,sacún palma,Caturra,Semi-washed ,7.75,7.58,7.25,7.17,7.58,7.33,10.0,10.0,940,940
+Arabica,Honduras,western region,Catimor,Washed ,7.5,7.42,7.08,7.42,7.5,7.33,10.0,10.0,1200,1200
+Arabica,Guatemala,huehuetenango,Bourbon,Washed ,7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,190164,190164
+Arabica,Taiwan,natou county,Typica,Washed ,7.42,7.42,7.25,7.67,7.33,7.25,10.0,10.0,800,800
+Arabica,Costa Rica,turrialba,Caturra,Washed ,7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,13,13
+Arabica,"Tanzania, United Republic Of",oldeani ,Other,Washed ,7.42,7.42,7.33,7.42,7.42,7.33,10.0,10.0,1800,1800
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.42,7.42,7.17,7.58,7.33,7.33,10.0,10.0,1100,1100
+Arabica,Taiwan,natou county,Typica,Semi-washed ,7.33,7.17,7.08,7.08,8.33,8.25,10.0,9.33,850,850
+Arabica,Brazil,south of minas,Yellow Bourbon,Washed ,7.42,7.42,7.33,7.33,7.5,7.25,10.0,10.0,1260,1260
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,1310,1310
+Arabica,Mexico,la concordia,Typica,Washed ,7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,1400,1400
+Arabica,Mexico,la concordia,Marigojipe,Natural ,7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,1600,1600
+Arabica,Mexico,la concordia,Typica,Natural ,7.67,7.58,7.42,7.58,7.58,7.42,10.0,8.67,1650,1650
+Arabica,Guatemala,santa rosa,Bourbon,Washed ,7.67,7.58,7.17,7.42,7.33,7.42,10.0,10.0,1219,1219
+Arabica,Nicaragua,jalapa,Caturra,Other,7.5,7.42,7.33,7.33,7.25,7.33,10.0,10.0,1100,1100
+Arabica,Honduras,comayagua,Caturra,Washed ,7.5,7.5,7.33,7.42,7.17,7.25,10.0,10.0,1400,1400
+Arabica,Taiwan,古坑鄉荷包村尖山坑60號,Typica,Natural ,7.5,7.42,7.33,7.08,7.58,7.25,10.0,10.0,160,200
+Arabica,Myanmar,ywar ngan township,Catuai,Washed ,7.25,7.42,7.25,7.5,7.33,7.33,10.0,10.0,1219,1219
+Arabica,Costa Rica,occidental,Caturra,Washed ,7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,1200,1200
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.67,7.42,6.92,7.5,7.5,7.17,10.0,10.0,1599,1599
+Arabica,Guatemala,oriente,Other,Washed ,7.5,7.42,7.17,7.58,7.25,7.42,10.0,10.0,1219,1219
+Arabica,Taiwan,natou county,Typica,Washed ,7.42,7.33,7.67,7.33,7.42,7.5,10.0,9.33,900,900
+Arabica,Brazil,sul de minas,Yellow Bourbon,Semi-washed ,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,1200,1200
+Arabica,Haiti,dondon,Blue Mountain,Washed ,7.42,7.33,7.25,7.42,7.42,7.33,10.0,10.0,400,1250
+Arabica,Taiwan,taichung xinshe 台中市新社區,Typica,Other,7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,600,600
+Arabica,Mexico,la concordia,Typica,Washed ,7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,1150,1150
+Arabica,Mexico,amatenango de la frontera,Typica,Washed ,7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,1600,1600
+Arabica,Mexico,temaxcalapa,Catuai,Washed ,7.42,7.25,7.17,7.42,7.17,8.0,10.0,10.0,1100,1100
+Arabica,Mexico,manzanillo,Typica,Semi-washed ,7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,1000,1000
+Arabica,Mexico,tapachula,Bourbon,Washed ,7.42,7.42,7.33,7.17,7.25,7.42,10.0,10.0,1250,1250
+Arabica,Mexico,atoyac de alvarez,Typica,Natural ,7.5,7.5,7.25,7.5,7.42,7.58,10.0,10.0,1100,1100
+Arabica,Indonesia,ijen,Other,Washed ,7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,1200,1600
+Arabica,Brazil,sul de minas,Bourbon,Semi-washed ,7.5,7.42,7.17,7.42,7.5,7.33,10.0,10.0,125,125
+Arabica,Mexico,veracruz,Mundo Novo,Washed ,7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,1100,1100
+Arabica,Guatemala,san marcos,Catuai,Washed ,7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,1371,1371
+Arabica,Brazil,cerrado,Catuai,Natural ,7.33,7.5,7.5,7.33,6.83,7.42,10.0,10.0,1100,1100
+Arabica,Honduras,marcala,Catuai,Washed ,7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,1400,1400
+Arabica,Taiwan,苗栗三灣,Typica,Washed ,7.83,7.75,7.42,7.17,7.08,7.08,10.0,10.0,110,110
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.58,7.17,7.33,7.42,7.08,7.42,10.0,10.0,1422,1422
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,1100,1100
+Arabica,Guatemala,san lucas toliman,Bourbon,Washed ,7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,1550,1550
+Arabica,Mexico,siltepec el triunfo,Typica,Washed ,7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,1550,1550
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,1310,1310
+Arabica,Mexico,huazalingo,Caturra,Washed ,7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,763,763
+Arabica,Mexico,coatepec,Typica,Washed ,7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,1100,1100
+Arabica,Colombia,huila,Caturra,Natural ,7.5,7.42,7.25,7.17,7.17,7.75,10.0,10.0,1750,1750
+Arabica,Honduras,comayagua,Caturra,Washed ,7.5,7.5,7.0,7.17,7.5,7.33,10.0,10.0,1500,1500
+Arabica,Brazil,cerrado,Catuai,Natural ,7.25,7.33,7.33,7.33,7.33,7.42,10.0,10.0,1100,1100
+Arabica,Honduras,marcala,Catuai,Washed ,7.58,7.42,7.17,7.42,7.17,7.17,10.0,10.0,1350,1350
+Arabica,Brazil,mantiqueira de minas,Yellow Bourbon,Other,7.17,7.33,7.42,7.25,7.42,7.33,10.0,10.0,1200,1200
+Arabica,Philippines,davao city,Other,Washed ,7.08,7.33,7.42,7.33,7.33,7.5,10.0,10.0,1400,1400
+Arabica,Malawi,mzuzu,Gesha,Washed ,7.75,7.33,7.08,7.33,7.33,7.25,10.0,10.0,1200,1200
+Arabica,Honduras,san marcos,Catuai,Washed ,7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,1450,1450
+Arabica,Mexico,tapachula,Typica,Washed ,7.58,7.42,7.25,7.33,7.25,7.25,10.0,10.0,1800,1800
+Arabica,Mexico,veracruz,Typica,Washed ,7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,1000,1000
+Arabica,Brazil,matas de minas        ,Catuai,Natural ,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,1100,1100
+Arabica,Taiwan,dongshan dist.,Typica,Natural ,7.83,7.75,7.67,7.83,7.83,7.75,10.0,10.0,680,680
+Arabica,Brazil,south of minas,Yellow Bourbon,Natural ,7.17,7.42,7.17,7.08,6.92,8.17,10.0,10.0,1,1
+Arabica,Nicaragua,jinotega,Catuai,Washed ,7.08,7.5,7.33,7.17,7.42,7.25,10.0,10.0,1100,1100
+Arabica,Honduras,marcala,Catuai,Washed ,7.42,7.17,7.17,7.5,7.33,7.25,10.0,10.0,1400,1400
+Arabica,Guatemala,huehuetenango,Pacamara,Washed ,7.33,7.42,7.17,7.25,7.42,7.33,10.0,10.0,1700,1700
+Arabica,"Tanzania, United Republic Of",karatu ngorogoro,Other,Washed ,7.33,7.17,7.17,7.5,7.25,7.42,10.0,10.0,1700,1700
+Arabica,Taiwan,nantou,Typica,Semi-washed ,7.5,7.5,7.25,7.25,7.25,7.25,10.0,10.0,650,650
+Arabica,Guatemala,sacatepequez,Caturra,Washed ,7.5,7.33,7.5,7.58,7.0,7.25,10.0,10.0,1524,1524
+Arabica,Mexico,motozintla,Typica,Washed ,7.42,7.42,7.33,7.33,7.5,7.42,10.0,10.0,1500,1500
+Arabica,Nicaragua,dipilto,Unknown,Washed ,7.33,7.5,7.17,7.17,7.58,7.17,10.0,10.0,1200,1200
+Arabica,"Tanzania, United Republic Of",ruvuma,Bourbon,Washed ,7.67,7.17,7.17,7.33,7.5,7.17,10.0,10.0,100,2000
+Arabica,Mexico,chiapas,Caturra,Washed ,7.75,7.58,7.08,7.25,7.08,7.25,10.0,10.0,1200,1200
+Arabica,Costa Rica,tres rios,Caturra,Washed ,7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,1200,1400
+Arabica,Honduras,central region,Catuai,Natural ,7.42,7.33,7.0,7.42,7.33,7.33,10.0,10.0,1450,1450
+Arabica,Thailand,chiangrai,Caturra,Washed ,6.83,7.42,7.42,7.17,7.5,7.42,10.0,10.0,1400,1500
+Arabica,Philippines,corillera administrative,Typica,Natural ,7.25,7.25,7.25,7.08,7.58,7.5,10.0,10.0,1200,1200
+Arabica,"Tanzania, United Republic Of",mbinga,Bourbon,Washed ,7.58,7.17,7.17,7.33,7.33,7.25,10.0,10.0,1550,1550
+Arabica,Malawi,southern- zomba,Caturra,Washed ,7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,990,1000
+Arabica,Costa Rica,central valley,Catuai,Washed ,7.33,7.08,7.33,7.25,7.33,7.58,10.0,10.0,1200,1400
+Arabica,Mexico,tapachula,Typica,Natural ,7.42,7.25,7.08,7.75,7.42,7.17,10.0,10.0,1800,1800
+Arabica,Guatemala,oriente,Caturra,Washed ,7.42,7.25,7.33,7.25,7.25,7.42,10.0,10.0,1450,1450
+Arabica,Brazil,south of minas,Mundo Novo,Natural ,7.42,7.33,7.25,7.42,7.5,7.17,10.0,10.0,1000,1000
+Arabica,Brazil,alta paulista (sao paulo),Mundo Novo,Natural ,7.58,7.42,7.5,7.25,7.75,7.58,10.0,9.33,695,695
+Arabica,Nicaragua,jinotega,Other,Washed ,7.33,7.33,7.33,7.42,7.33,7.33,10.0,10.0,1100,1100
+Arabica,United States,central america,Pache Comun,Natural ,7.42,7.17,7.33,7.42,7.25,7.33,10.0,10.0,1706,1706
+Arabica,"Tanzania, United Republic Of",iwala village,Other,Washed ,7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,1456,1456
+Arabica,Costa Rica,naranjo,Caturra,Washed ,7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,1500,1500
+Arabica,United States (Puerto Rico),yauco region,Other,Washed ,7.67,7.75,7.67,7.58,7.58,7.67,10.0,10.0,853,853
+Arabica,Mexico,san fernando,Typica,Washed ,7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,1650,1650
+Arabica,Mexico,santo reyes nopala,Typica,Washed ,7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,1300,1300
+Arabica,Mexico,santa maria sitepec,Typica,Washed ,7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,1642,1642
+Arabica,Mexico,talpa de allende,Typica,Washed ,7.42,7.33,7.25,7.42,7.17,7.25,10.0,10.0,1200,1200
+Arabica,El Salvador,apaneca,Bourbon,Washed ,7.42,7.08,7.08,7.33,7.25,7.58,10.0,10.0,1450,1450
+Arabica,Guatemala,norte,Bourbon,Washed ,7.42,7.25,7.17,7.5,7.25,7.17,10.0,10.0,3280,3280
+Arabica,Colombia,guayata,Caturra,Washed ,7.67,7.5,7.42,5.25,7.67,7.75,10.0,10.0,1600,1600
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,1219,1219
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.25,7.17,7.17,7.25,7.5,7.33,10.0,10.0,758,758
+Arabica,Honduras,san marcos,Caturra,Natural ,7.42,7.25,7.25,7.33,7.25,7.17,10.0,10.0,1350,1350
+Arabica,"Tanzania, United Republic Of",arusha,Other,Washed ,7.33,7.33,7.08,7.42,7.17,7.33,10.0,10.0,1525,1525
+Arabica,Uganda,eastern,SL14,Natural ,7.33,6.92,7.17,7.33,7.42,7.42,10.0,10.0,1700,1700
+Arabica,Taiwan,nantou,Typica,Semi-washed ,7.5,6.92,7.33,7.33,7.33,7.33,10.0,10.0,1100,1100
+Arabica,Thailand,thailand,Unknown,Washed ,7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,800,800
+Arabica,Mexico,motozintla,Other,Washed ,7.08,7.33,7.33,7.33,7.42,7.25,10.0,10.0,950,950
+Arabica,Mexico,adolfo lopez mateos,Typica,Washed ,7.58,7.67,7.5,7.67,7.58,7.5,10.0,10.0,1100,1100
+Arabica,Taiwan,taiwan,Other,Washed ,7.33,7.17,7.25,7.33,7.33,7.25,10.0,10.0,200,200
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,1901,1901
+Arabica,Kenya,kiambu,SL28,Washed ,7.17,7.58,7.5,7.5,8.0,7.75,10.0,10.0,1600,1600
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.5,7.33,7.17,7.42,7.5,7.33,10.0,10.0,1100,1100
+Arabica,Myanmar,pyinoolwin,Other,Other,7.17,7.42,7.0,7.58,7.33,7.0,10.0,10.0,1066,1066
+Arabica,"Tanzania, United Republic Of",manyara,Other,Washed ,7.33,7.17,7.17,7.25,7.42,7.33,10.0,10.0,1700,1700
+Arabica,Brazil,mantiqueira de minas,Yellow Bourbon,Natural ,7.25,7.33,7.25,7.25,7.25,7.33,10.0,10.0,1200,1200
+Arabica,Taiwan,台中新社,Typica,Washed ,7.92,7.67,7.33,7.08,7.08,7.08,10.0,10.0,550,550
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.17,7.42,7.17,7.25,7.25,7.33,10.0,10.0,1100,1100
+Arabica,Nicaragua,matagalpa,Caturra,Washed ,7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,700,1400
+Arabica,Guatemala,jalapa,Pacas,Washed ,7.58,7.42,6.92,7.5,7.25,7.17,10.0,10.0,1524,1524
+Arabica,Taiwan,taichung taiping 台中市太平區,Typica,Washed ,7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,900,900
+Arabica,Taiwan,nantou,Typica,Other,7.25,7.17,7.08,7.08,7.08,8.08,10.0,10.0,688,688
+Arabica,Taiwan,new taipei zhonghe 新北市中和區,Typica,Washed ,7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,300,300
+Arabica,Mexico,ixhuatlan del cafe,Typica,Washed ,7.58,7.33,7.08,7.5,7.17,7.25,10.0,10.0,1186,1186
+Arabica,Laos,paksong,Catimor,Washed ,7.42,7.33,7.17,7.17,7.17,7.25,10.0,10.0,1300,1300
+Arabica,Guatemala,orient,Caturra,Washed ,7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,1200,1200
+Arabica,Mexico,motozintla,Catuai,Semi-washed ,7.17,7.08,7.25,7.42,7.25,7.33,10.0,10.0,1210,1210
+Arabica,Mexico,oaxaca,Typica,Washed ,7.33,7.25,7.33,7.33,7.25,7.17,10.0,10.0,1100,1100
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.5,7.17,7.33,7.25,7.17,7.17,10.0,10.0,100,100
+Arabica,Myanmar,ywar ngan,Catuai,Washed ,6.92,7.5,7.0,7.58,7.5,7.08,10.0,10.0,3825,3825
+Arabica,Guatemala,huehuetenango,Caturra,Washed ,7.5,7.33,7.0,7.42,7.17,7.17,10.0,10.0,1658,1755
+Arabica,Nicaragua,jinotega,Other,Washed ,7.25,7.25,7.17,7.25,7.33,7.25,10.0,10.0,110000,110000
+Arabica,Honduras,siguatepeque,Caturra,Natural ,7.5,7.33,7.0,7.42,7.25,7.17,10.0,10.0,1450,1450
+Arabica,Panama,boquete,Caturra,Other,7.25,7.33,7.17,7.33,7.33,7.17,10.0,10.0,1680,1680
+Arabica,Honduras,marcala,Catuai,Washed ,7.42,7.17,7.08,7.42,7.25,7.25,10.0,10.0,1350,1350
+Arabica,Honduras,central region,Catuai,Natural ,7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,1450,1450
+Arabica,Costa Rica,san ramon,Caturra,Washed ,7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,1300,1300
+Arabica,Mexico,oaxaca,Typica,Washed ,7.58,7.33,7.42,7.25,7.5,7.5,9.33,10.0,1200,1200
+Arabica,Haiti,haiti,Typica,Washed ,7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,1000,1000
+Arabica,Indonesia,sumatra brastagi,Mandheling,Semi-washed ,7.58,7.42,7.0,7.67,7.5,7.5,9.33,10.0,1200,1500
+Arabica,Guatemala,antigua,Bourbon,Washed ,7.67,7.42,6.83,7.17,7.42,7.17,10.0,10.0,1500,1500
+Arabica,Costa Rica,tarrazu,Caturra,Washed ,7.83,7.5,7.67,7.67,7.83,7.5,10.0,10.0,185,185
+Arabica,Malawi,southern- zomba,Caturra,Washed ,7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,990,1000
+Arabica,Mexico,el desmoronado,Typica,Washed ,7.25,7.17,7.17,7.25,7.17,7.42,10.0,10.0,1200,1200
+Arabica,Colombia,santander,Caturra,Natural ,7.67,7.5,7.42,7.67,7.5,7.75,10.0,6.67,1550,1550
+Arabica,Guatemala,san lucas toliman,Bourbon,Washed ,7.67,7.17,7.0,7.5,7.0,7.0,10.0,10.0,1550,1550
+Arabica,"Tanzania, United Republic Of",arusha,Other,Washed ,7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,1400,1400
+Arabica,Brazil,south of minas,Bourbon,Semi-washed ,7.42,7.25,7.33,7.0,7.08,7.25,10.0,10.0,1200,1200
+Arabica,Honduras,occidental,Caturra,Washed ,7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,1400,1400
+Arabica,Guatemala,huehuetenango,Bourbon,Natural ,7.17,7.42,6.83,7.5,7.17,7.25,10.0,10.0,1383,1383
+Arabica,Taiwan,taiwan,Other,Natural ,7.17,7.17,7.17,7.42,7.17,7.25,10.0,10.0,50,50
+Arabica,Guatemala,santa rosa,Caturra,Washed ,7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,1500,1500
+Arabica,Honduras,ocotepeque,Catuai,Washed ,7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,1650,1650
+Arabica,Brazil,vale da grama,Yellow Bourbon,Semi-washed ,7.25,7.33,7.17,7.5,7.33,7.25,10.0,10.0,1250,1250
+Arabica,Myanmar,pyin oo lwin,Other,Washed ,7.17,7.33,7.17,7.42,7.25,7.08,10.0,10.0,3800,3800
+Arabica,Guatemala,oriente,Other,Washed ,7.5,7.17,6.83,7.5,7.17,7.17,10.0,10.0,1219,1219
+Arabica,Brazil,mantiqueira de minas,Yellow Bourbon,Semi-washed ,7.42,7.42,7.08,7.33,7.67,7.5,9.33,10.0,1250,1250
+Arabica,Guatemala,huehuetenango,Bourbon,Washed ,7.5,7.5,7.0,7.67,7.17,7.0,10.0,10.0,1859,1859
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.25,7.25,7.08,7.33,7.25,7.17,10.0,10.0,1450,1450
+Arabica,Taiwan,南投國姓,Typica,Washed ,7.58,7.17,7.17,7.17,7.17,7.17,10.0,10.0,600,600
+Arabica,El Salvador,department of ahuachapan,Bourbon,Washed ,7.33,7.17,7.08,7.08,7.33,7.17,10.0,10.0,1450,1450
+Arabica,China,yunnan,Other,Washed ,7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,1700,1700
+Arabica,Taiwan,nantou,Typica,Washed ,7.25,7.25,7.17,7.25,7.25,7.25,10.0,10.0,600,600
+Arabica,Mexico,pochutla,Typica,Washed ,6.92,7.17,7.08,7.5,7.33,7.17,10.0,10.0,1050,1050
+Arabica,Mexico,la concordia,Caturra,Washed ,7.42,7.08,7.08,7.33,7.25,7.17,10.0,10.0,1550,1550
+Arabica,"Tanzania, United Republic Of",mkuu rombo,Bourbon,Washed ,7.25,7.17,7.0,7.25,7.42,7.08,10.0,10.0,1700,1700
+Arabica,Taiwan,taichung xinshe 台中市新社區,Yellow Bourbon,Other,7.25,7.25,7.08,7.25,7.25,7.25,10.0,10.0,600,600
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.33,7.33,6.83,7.5,7.0,7.17,10.0,10.0,1310,1310
+Arabica,Mexico,chilón,Typica,Semi-washed ,7.25,7.08,7.08,7.33,7.33,7.17,10.0,10.0,940,940
+Arabica,Brazil,cerrado - monte carmelo - minas gerais,Catuai,Natural ,7.17,7.33,7.42,7.08,7.0,7.0,10.0,10.0,995,995
+Arabica,Honduras,comayagua,Caturra,Natural ,7.25,7.25,7.0,7.0,7.42,7.0,10.0,10.0,1400,1400
+Arabica,Mexico,sierra madre occidental,Caturra,Washed ,7.25,7.17,7.0,7.33,7.33,7.0,10.0,10.0,1600,1600
+Arabica,Myanmar,yauk sauk,Other,Natural ,8.0,7.08,7.0,7.33,7.08,6.92,10.0,10.0,914,914
+Arabica,Myanmar,ywar ngan,Catuai,Natural ,7.42,7.0,7.08,7.0,7.17,7.33,10.0,10.0,4287,4287
+Arabica,Nicaragua,matagalpa,Caturra,Washed ,7.08,6.92,7.0,7.25,7.5,7.25,10.0,10.0,900,900
+Arabica,Taiwan,chiayi fanlu嘉義縣番路鄉,Typica,Semi-washed ,7.25,7.08,7.25,7.25,7.17,7.25,10.0,10.0,700,700
+Arabica,Guatemala,oriente,Caturra,Washed ,7.0,7.17,7.33,7.33,7.0,7.17,10.0,10.0,1400,1400
+Arabica,Mexico,calnali,Caturra,Washed ,7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,808,808
+Arabica,Vietnam,dala,Catimor,Other,7.42,7.25,7.25,7.58,7.42,7.33,10.0,10.0,1550,1550
+Arabica,Nicaragua,jinotega,Caturra,Washed ,7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,1100,1275
+Arabica,Honduras,marcala,Catuai,Washed ,7.25,7.25,7.0,7.17,7.08,7.08,10.0,10.0,1400,1400
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.33,7.33,7.0,7.17,7.17,7.17,10.0,10.0,1310,1310
+Arabica,Mexico,coatepec,Typica,Washed ,7.33,7.08,6.92,7.42,7.25,7.08,10.0,10.0,1250,1250
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.58,7.42,7.33,7.5,7.08,7.17,10.0,10.0,1550,1550
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.33,7.33,7.17,7.08,7.25,7.0,10.0,10.0,1000,1000
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.33,7.33,7.0,7.33,7.0,7.0,10.0,10.0,1310,1310
+Arabica,Brazil,mantiqueira de minas,Bourbon,Pulped natural ,7.17,7.17,7.0,7.17,7.25,7.25,10.0,10.0,1100,1100
+Arabica,Taiwan,苗栗泰安,Typica,Washed ,7.42,7.25,7.25,7.17,7.0,7.0,10.0,10.0,850,850
+Arabica,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,Typica,Other,7.25,7.25,7.25,7.25,7.08,7.0,10.0,10.0,200,200
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,Typica,Washed ,7.25,7.25,7.25,7.0,7.25,7.08,10.0,10.0,150,150
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,Typica,Semi-washed ,7.25,7.25,7.25,7.08,7.17,7.08,10.0,10.0,250,250
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,1300,1300
+Arabica,Mexico,escuitla,Typica,Washed ,7.25,7.08,7.0,7.17,7.33,7.17,10.0,10.0,1300,1300
+Arabica,Nicaragua,jinotega,Caturra,Washed ,7.33,7.08,6.92,7.08,7.42,7.17,10.0,10.0,1250,1250
+Arabica,Myanmar,doe kwin,Other,Washed ,7.17,7.33,7.0,7.42,7.17,7.0,10.0,10.0,3845,3845
+Arabica,Mexico,sierra fraylesca,Typica,Washed ,7.58,7.75,7.42,7.5,7.5,7.5,8.67,10.0,1300,1500
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,Typica,Washed ,7.25,7.25,7.25,7.0,7.25,7.0,10.0,10.0,250,250
+Arabica,Thailand,thailand,Unknown,Washed ,7.33,6.67,7.08,7.42,7.42,7.08,10.0,10.0,800,800
+Arabica,Mexico,coatepec,Typica,Washed ,7.25,7.25,7.08,7.17,7.33,7.33,10.0,10.0,1250,1250
+Arabica,Mexico,san miguel del puerto,Other,Washed ,7.08,7.33,7.0,7.33,7.08,7.0,10.0,10.0,1100,1100
+Arabica,Mexico,chiapas,Bourbon,Washed ,7.33,7.08,7.08,7.33,7.42,7.17,10.0,10.0,1300,1300
+Arabica,Mexico,motozintla,Other,Washed ,7.17,7.17,6.92,7.25,7.33,7.08,10.0,10.0,1100,1100
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.5,7.17,7.0,7.17,7.25,7.08,10.0,10.0,1100,1100
+Arabica,Mexico,jaltenango,Catuai,Washed ,7.17,7.08,7.08,7.08,7.5,7.33,10.0,10.0,1100,1100
+Arabica,Mexico,coatepec,Typica,Natural ,7.33,7.25,7.0,7.42,7.17,7.17,10.0,10.0,1250,1250
+Arabica,Mexico,veracruz,Mundo Novo,Washed ,7.17,7.33,7.08,7.58,7.33,7.08,9.33,10.0,1250,1250
+Arabica,Kenya,kiambu,SL34,Washed ,7.0,7.08,7.0,7.17,7.25,7.25,10.0,10.0,1500,1500
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.33,7.25,6.92,7.33,7.25,7.33,10.0,10.0,1700,1700
+Arabica,Nicaragua,jinotega,Caturra,Washed ,6.83,7.17,7.17,6.92,7.5,7.08,10.0,10.0,1250,1250
+Arabica,Mexico,veracruz,Typica,Washed ,7.17,7.08,7.0,7.25,7.5,7.0,10.0,10.0,1300,1300
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,190164,190164
+Arabica,Taiwan,taiwu township ,Typica,Natural ,7.75,7.33,7.17,7.33,7.67,7.83,9.33,8.67,800,1200
+Arabica,Taiwan,baihe dist.,Typica,Washed ,7.08,7.08,7.25,7.0,7.17,7.17,10.0,10.0,500,700
+Arabica,Thailand,thailand,Unknown,Washed ,7.25,7.08,6.92,7.5,7.08,6.92,10.0,10.0,800,800
+Arabica,Costa Rica,brunca,Catuai,Washed ,7.58,7.5,7.67,7.75,7.67,7.58,8.0,10.0,1100,1100
+Arabica,Mexico,la concordia,Typica,Washed ,7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,1400,1400
+Arabica,Mexico,chiapas,Bourbon,Washed ,7.58,7.08,6.92,7.58,7.5,6.92,9.33,10.0,1022,1022
+Arabica,Mexico,chiapas,Bourbon,Washed ,7.25,7.08,7.0,7.17,7.17,7.08,10.0,10.0,1300,1300
+Arabica,Mexico,zaragoza itundujia,Bourbon,Washed ,7.25,7.17,7.17,7.08,7.17,7.0,10.0,10.0,1450,1450
+Arabica,Mexico,pochutla,Typica,Washed ,7.33,7.25,7.0,7.08,7.08,7.0,10.0,10.0,1050,1050
+Arabica,Mexico,tuxtla gutierrez,Typica,Washed ,7.25,6.83,6.92,7.08,7.25,7.08,10.0,10.0,1100,1100
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,1219,1219
+Arabica,El Salvador,cacahuatique,Bourbon,Washed ,7.25,7.08,7.0,6.83,7.33,7.17,10.0,10.0,1250,1250
+Arabica,Thailand,thailand,Unknown,Washed ,6.92,7.17,6.83,7.42,7.17,7.08,10.0,10.0,800,800
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.0,6.83,7.08,7.08,7.17,10.0,10.0,1310,1310
+Arabica,Mexico,la concordia,Typica,Washed ,7.42,7.25,6.83,7.58,7.17,6.58,10.0,10.0,1400,1400
+Arabica,Mexico,tenango de doria,Caturra,Washed ,7.33,7.17,7.0,6.75,7.08,7.0,10.0,10.0,975,975
+Arabica,Mexico,coatepec,Mundo Novo,Washed ,6.92,7.17,7.17,7.17,7.08,7.08,10.0,10.0,1264,1264
+Arabica,Mexico,tepetzingo,Typica,Washed ,7.08,7.0,6.92,7.33,7.25,7.08,10.0,10.0,1250,1250
+Arabica,Mexico,la concordia,Caturra,Washed ,7.25,6.92,6.92,7.33,7.25,7.0,10.0,10.0,1550,1550
+Arabica,Nicaragua,jinotega,Caturra,Natural ,6.92,6.92,7.0,7.42,7.25,7.0,10.0,10.0,1050,1050
+Arabica,Taiwan,nantou,Typica,Natural ,6.92,7.0,7.17,7.0,7.42,7.0,10.0,10.0,700,700
+Arabica,Colombia,cundinamarca,Caturra,Washed ,7.83,7.5,7.42,7.42,7.67,7.5,6.67,10.0,1550,1550
+Arabica,Mexico,la concordia,Caturra,Washed ,7.25,7.08,6.92,7.25,7.58,7.08,10.0,10.0,1550,1550
+Arabica,Mexico,coatepec,Typica,Washed ,7.25,7.33,7.0,7.25,7.17,7.17,10.0,10.0,1100,1100
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,1219,1219
+Arabica,Guatemala,oriente,Other,Washed ,7.25,7.33,6.83,7.0,7.0,7.17,10.0,10.0,1219,1219
+Arabica,Mexico,xicotepec de juarez,Typica,Washed ,7.0,6.83,6.83,7.42,7.33,7.17,10.0,10.0,800,800
+Arabica,Cote d?Ivoire,cnra station of divo,Unknown,Washed ,7.42,7.25,6.83,7.0,7.33,7.08,10.0,10.0,200,200
+Arabica,Colombia,pereira,Caturra,Washed ,7.42,7.25,6.75,7.25,7.42,7.25,9.33,10.0,1200,1200
+Arabica,Mexico,zentla,Typica,Washed ,7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,950,950
+Arabica,Mexico,zentla,Typica,Washed ,7.42,7.17,7.08,7.17,7.08,7.08,10.0,10.0,750,750
+Arabica,Taiwan,natou county,Typica,Washed ,7.08,6.83,6.83,7.25,7.42,7.08,10.0,10.0,850,850
+Arabica,Mexico,veracruz,Bourbon,Washed ,7.0,7.0,6.92,7.17,7.17,7.08,10.0,10.0,1000,1000
+Arabica,Guatemala,santa rosa,Bourbon,Washed ,7.33,7.42,7.33,7.42,7.5,7.42,9.33,9.33,1219,1219
+Arabica,Honduras,ocotepeque,Catuai,Washed ,7.58,7.0,6.75,6.92,7.0,6.92,10.0,10.0,1650,1650
+Arabica,Guatemala,occidente,Bourbon,Washed ,7.08,7.0,6.92,7.42,7.0,6.92,10.0,10.0,1320,1320
+Arabica,Guatemala,nuevo oriente,Catuai,Washed ,7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,1300,1800
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.25,7.08,6.92,7.08,7.17,7.17,10.0,10.0,1550,1550
+Arabica,Mexico,yajalon,Typica,Washed ,7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,1450,1450
+Arabica,Guatemala,san marcos,Bourbon,Washed ,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,1700,1700
+Arabica,United States (Puerto Rico),yauco region,Other,Washed ,7.42,7.08,6.75,7.33,7.33,6.92,9.33,10.0,853,853
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.33,7.0,6.92,7.25,7.33,7.08,10.0,10.0,1500,1500
+Arabica,Mexico,tlacuilotepec,Mundo Novo,Washed ,7.25,7.08,6.75,7.33,7.42,7.0,10.0,10.0,1100,1100
+Arabica,Mexico,talpa de allende,Typica,Washed ,7.17,7.25,7.25,7.17,7.25,7.08,9.33,10.0,1200,1200
+Arabica,Guatemala,oriente,Other,Washed ,7.33,7.17,6.58,7.42,7.08,6.83,10.0,10.0,1219,1219
+Arabica,Honduras,intibuca,Pacas,Washed ,7.0,7.0,7.0,7.0,7.0,7.0,10.0,10.0,1350,1350
+Arabica,Peru,san ignacio,Typica,Washed ,7.67,7.17,7.08,7.25,8.0,7.5,9.33,9.33,1400,1400
+Arabica,Mexico,iliatenco,Mundo Novo,Natural ,6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,1300,1300
+Arabica,Mexico,zaragoza itundujia,Typica,Semi-washed ,7.5,7.17,6.92,7.5,7.25,7.0,10.0,10.0,1550,1550
+Arabica,Mexico,amatenango de la frontera,Typica,Washed ,7.17,6.83,6.83,7.25,7.17,6.92,10.0,10.0,12,12
+Arabica,Mexico,la concordia,Typica,Washed ,7.33,7.0,6.75,7.08,7.17,7.25,10.0,10.0,1300,1300
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.5,7.0,6.92,7.08,6.92,6.75,10.0,10.0,1400,1400
+Arabica,Nicaragua,jalapa,Caturra,Other,7.17,7.0,6.92,7.0,7.0,7.0,10.0,10.0,1100,1100
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.33,7.08,6.33,7.25,7.0,7.0,10.0,10.0,1310,1310
+Arabica,Mexico,veracruz,Typica,Washed ,7.25,6.83,6.83,7.0,7.17,7.0,10.0,10.0,1320,1320
+Arabica,Mexico,veracruz,Typica,Semi-washed ,7.25,7.33,7.17,7.25,7.08,7.0,10.0,10.0,1250,1250
+Arabica,Mexico,ohuapan,Bourbon,Washed ,7.67,7.17,6.83,7.33,7.58,7.17,10.0,8.67,1350,1350
+Arabica,China,yunnan,Typica,Washed ,7.0,6.92,6.83,7.17,7.17,7.17,10.0,9.33,1850,1850
+Arabica,Mexico,yecuatla,Caturra,Washed ,6.92,6.92,6.67,7.25,7.17,6.92,10.0,10.0,1150,1150
+Arabica,Guatemala,oriente,Other,Washed ,7.33,7.17,6.92,7.58,7.25,7.17,9.33,10.0,1219,1219
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,6.83,6.75,7.17,7.25,7.0,6.92,10.0,10.0,800,800
+Arabica,Mexico,tapachula,Typica,Washed ,7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,1400,1400
+Arabica,Mexico,cofradia de suchitlan,Typica,Washed ,7.92,7.58,7.58,7.92,7.92,7.5,6.67,10.0,1300,1300
+Arabica,Mexico,sierra,Bourbon,Washed ,7.25,6.75,6.92,6.92,7.25,7.58,9.33,10.0,1600,1600
+Arabica,Mexico,villa talea de castro,Typica,Washed ,7.08,6.83,6.83,7.0,7.0,6.92,10.0,10.0,1400,1400
+Arabica,Mexico,los angeles,Caturra,Washed ,7.25,7.17,7.0,6.83,7.58,7.08,10.0,10.0,1200,1200
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.58,7.17,7.0,7.17,7.33,7.0,10.0,10.0,1500,1500
+Arabica,Guatemala,oriente,Other,Washed ,7.17,6.5,6.67,7.0,7.17,7.17,10.0,10.0,1219,1219
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.17,7.17,6.5,7.17,7.0,6.83,10.0,10.0,1310,1310
+Arabica,Mexico,xochitonalco,Typica,Natural ,7.25,7.25,7.0,7.5,7.33,7.42,9.33,10.0,1300,1300
+Arabica,Indonesia,ijen,Java,Washed ,6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,1300,1300
+Arabica,Mexico,cordoba,Typica,Washed ,7.08,6.83,6.67,7.25,7.25,6.92,9.33,10.0,1050,1050
+Arabica,Taiwan,台南市東山區( dongshan dist.,Yellow Bourbon,Washed ,7.5,7.08,7.33,7.17,7.5,7.5,10.0,10.0,650,650
+Arabica,Honduras,intibuca,Pacas,Natural ,6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,1350,1350
+Arabica,Guatemala,oriente,Other,Washed ,7.42,7.25,6.83,7.33,7.0,6.92,9.33,9.33,1219,1219
+Arabica,China,yunnan,Typica,Washed ,7.33,7.17,6.92,7.08,7.33,7.0,9.33,9.33,1200,1200
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.0,6.83,6.83,7.17,6.67,6.83,10.0,10.0,1310,1310
+Arabica,Mexico,motozintla,Other,Washed ,7.25,7.33,7.0,7.0,7.25,7.08,10.0,8.0,850,850
+Arabica,Costa Rica,occidental,Caturra,Washed ,7.5,7.25,7.42,7.0,7.08,6.83,9.33,10.0,1200,1200
+Arabica,Mexico,petatlan,Typica,Washed ,7.42,7.25,7.0,7.0,7.25,7.08,10.0,10.0,1248,1248
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.0,6.83,6.67,7.17,6.83,6.83,10.0,10.0,1310,1310
+Arabica,Taiwan,dongshan dist.,Typica,Washed ,7.17,6.75,6.58,7.33,7.33,7.17,9.33,10.0,750,800
+Arabica,Mexico,coatepec,Typica,Washed ,7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,1300,1300
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.08,6.92,6.33,7.0,6.92,7.0,10.0,10.0,1310,1310
+Arabica,Brazil,south of minas,Bourbon,Natural ,7.5,7.33,7.42,7.58,7.58,6.92,8.0,10.0,890,890
+Arabica,Guatemala,oriente,Other,Washed ,7.33,7.0,6.83,7.17,7.17,7.17,9.33,9.33,1219,1219
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.33,7.0,6.67,7.0,6.92,6.92,9.33,10.0,1500,1500
+Arabica,Haiti,dondon,Typica,Washed ,6.83,6.83,6.83,6.75,6.92,6.92,10.0,10.0,400,1250
+Arabica,Mexico,motozintla,Other,Washed ,7.08,7.0,7.0,7.25,7.33,7.25,8.67,10.0,1200,1200
+Arabica,Peru,san ignacio,Caturra,Washed ,7.42,7.75,7.42,7.67,7.92,7.83,5.33,9.33,900,1500
+Arabica,Mexico,coatepec,Typica,Washed ,7.17,6.58,6.58,7.0,7.25,6.58,9.33,10.0,1100,1100
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,1310,1310
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.42,7.0,6.83,7.08,6.92,6.83,10.0,10.0,1400,1400
+Arabica,Indonesia,indonesia,Other,Natural ,7.33,7.0,6.5,6.08,7.58,6.33,10.0,9.33,3500,3500
+Arabica,Mexico,tepictla,Bourbon,Washed ,7.08,6.83,6.83,7.17,7.17,7.08,7.33,10.0,1250,1250
+Arabica,Honduras,intibuca,Pacas,Natural ,6.83,6.83,6.67,6.83,7.0,6.83,8.67,10.0,1350,1350
+Arabica,Philippines,benguet,Unknown,Washed ,6.83,6.5,6.5,6.92,6.75,7.0,10.0,9.33,1000,1000
+Arabica,Guatemala,oriente,Bourbon,Washed ,7.92,7.58,7.17,7.58,7.33,7.17,8.0,8.0,1310,1310
+Arabica,Mexico,tlacuilotepec,Pacamara,Washed ,7.5,7.25,6.92,7.0,7.17,6.83,8.0,10.0,1100,1100
+Arabica,Mexico,ocosingo,Mundo Novo,Washed ,7.17,6.92,6.67,6.83,7.25,7.75,6.0,10.0,1200,1200
+Arabica,Mexico,huautla de jimenez,Typica,Washed ,7.17,7.17,6.83,7.17,7.42,6.67,7.33,10.0,1280,1280
+Arabica,Mexico,menglian,Typica,Washed ,7.0,6.92,6.75,6.92,7.17,6.83,6.67,10.0,850,850
+Arabica,Mexico,zaragoza itundujia,Typica,Washed ,7.08,6.75,6.58,7.0,7.0,6.75,8.67,10.0,1500,1500
+Arabica,Mexico,coatepec,Typica,Washed ,7.33,6.75,6.67,7.25,7.5,7.0,5.33,10.0,1250,1250
+Arabica,Mexico,chiapas,Typica,Washed ,7.08,7.0,6.83,7.5,7.33,6.83,7.33,10.0,1700,1700
+Arabica,Guatemala,oriente,Bourbon,Washed ,6.5,6.33,6.5,7.5,7.33,6.83,10.0,8.67,1310,1310
+Arabica,Mexico,chocaman,Typica,Washed ,7.0,6.58,6.67,6.83,7.08,6.83,6.67,10.0,1140,1140
+Arabica,Mexico,xalapa,Typica,Washed ,6.92,6.42,6.17,7.33,7.25,6.75,6.67,10.0,1200,1200
+Arabica,Mexico,coatepec,Typica,Washed ,7.67,7.0,7.17,7.58,7.33,7.33,2.67,10.0,1250,1250
+Arabica,Honduras,intibuca,Pacas,Washed ,7.0,7.17,6.83,7.17,7.0,7.17,8.0,8.0,1350,1350
+Arabica,Mexico,sierra alta mixe y zapoteca,Typica,Washed ,7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,1200,1200
+Arabica,Costa Rica,occidental,Caturra,Washed ,6.33,6.5,6.33,6.83,6.33,6.5,6.67,10.0,1200,1200
+Arabica,Mexico,tlatlauquitepec,Mundo Novo,Washed ,6.92,6.92,6.92,6.92,7.17,7.0,2.67,10.0,800,800
+Arabica,Mexico,veracruz,Bourbon,Washed ,6.5,6.67,6.42,7.17,7.33,6.5,6.0,10.0,1800,1800
+Arabica,Mexico,sierra norte yajalon,Typica,Washed ,6.92,7.0,6.83,6.92,7.42,6.92,6.0,10.0,1000,1000
+Arabica,Honduras,marcala,Catuai,Washed ,6.67,6.5,6.17,6.67,6.83,6.17,8.0,8.0,1450,1450
+Arabica,Honduras,marcala,Catuai,Washed ,7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,1450,1450
+Arabica,Honduras,marcala,Catuai,Washed ,7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,1450,1450
+Arabica,Mexico,juchique de ferrer,Bourbon,Washed ,7.08,6.83,6.25,7.42,7.25,6.75,0.0,10.0,900,900
+Arabica,Haiti,department d'artibonite ,Typica,Natural ,6.75,6.58,6.42,6.67,7.08,6.67,6.0,6.0,350,350
+Arabica,Nicaragua,jalapa,Caturra,Other,7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,1100,1100
+Arabica,Guatemala,nuevo oriente,Catuai,Washed ,7.5,6.67,6.67,7.67,7.33,6.67,1.33,1.33,1417,1417
+Robusta,India,chikmagalur karnataka indua,Unknown,Washed ,8.0,7.75,7.92,8.0,7.92,7.92,10.0,8.0,3170,3170
+Robusta,India,chikmagalur karnataka india,Unknown,Washed ,7.67,7.75,7.83,7.67,7.92,7.83,10.0,7.92,3140,3140
+Robusta,India,chikmagalur karnataka,Other,Washed ,7.67,7.75,7.58,7.83,7.83,8.0,10.0,7.92,1000,1000
+Robusta,India,chikmagalur karnataka,Other,Natural ,7.67,7.83,7.75,7.5,7.75,7.58,10.0,7.75,1000,1000
+Robusta,India,chikmagalur,Unknown,Natural ,7.5,7.5,7.25,7.83,7.67,7.83,10.0,7.83,750,750
+Robusta,India,chikmagalur,Unknown,Natural ,7.58,7.42,7.42,7.83,7.42,7.5,10.0,7.42,750,750
+Robusta,United States,chikmagalur,Arusha,Natural ,7.92,7.5,7.42,7.42,7.42,7.42,10.0,7.58,3000,3000
+Robusta,United States,kwanza norte province,Unknown,Natural ,7.33,7.33,7.17,7.42,7.5,7.17,9.33,7.42,795,795
