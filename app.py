@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
-DATA_PATH = "Resources/arabica_final.csv"
+DATA_PATH = "Resources/coffee_final.csv"
 
 # Load data using the cache
 @st.cache_data

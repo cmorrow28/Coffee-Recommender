@@ -1,0 +1,7 @@
+pyarrow 
+sci-kit 
+streamlit-extras 
+plost 
+
+pip install streamlit 
+streamlit run app.py 
