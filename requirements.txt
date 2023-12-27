@@ -2,6 +2,7 @@ pyarrow
 sci-kit 
 streamlit-extras 
 plost 
+scikit-surprise
 
 pip install streamlit 
 streamlit run app.py 
