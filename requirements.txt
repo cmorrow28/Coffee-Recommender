@@ -1,7 +1,6 @@
 pyarrow 
 sci-kit 
-streamlit-extras 
-plost 
+streamlit-extras
 
 
 pip install streamlit 
