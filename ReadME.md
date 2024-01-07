@@ -4,11 +4,11 @@ Welcome to the Coffee Recommender System! This dataset contains information abou
 
 ## Table of Contents 
 
-- [Contents](#contents)
 - [Overview](#overview)
+- [Contents](#contents)
   - [Data Source](#data-source)
   - [Usage](#usage)
-  - [Exploratory Data Analysis](#exploratory-data-analysis-eda)
+    - [Exploratory Data Analysis](#exploratory-data-analysis-eda)
 - [Languages and Tools](#languages-and-tools)
     - [Python Dependencies](#python-dependencies)
 - [Column Description](#column-descriptions)
@@ -37,13 +37,11 @@ Resources
 Models
 Saved `kmeans_model.joblib` and `pca_model.joblib` machine models 
 
-
 ## Data Source
 
 The dataset was collected from [toferk GitHub](https://github.com/toferk/coffee-recommender/blob/master/data/coffee_clean.csv) and represents a diverse collection of high-quality coffee blends from various regions.
 
 ## Usage
-
 ### Exploratory Data Analysis (EDA)
 
 Explore and analyze the dataset using your preferred data analysis tools. Visualize patterns, trends, and correlations among different features.
