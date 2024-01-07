@@ -148,7 +148,7 @@ The scale for the overall coffee ratings runs from 50 to 100, and reflects the r
 [2] [GitHub Icons](https://icons8.com/) <br> 
 [3] [Matplotlib](https://matplotlib.org/) <br> 
 [4] [ToFerk GitHub](https://github.com/toferk)  <br> 
-[5] [
+[5] [Understanding Cosine Similatiry Math](https://www.learndatasci.com/glossary/cosine-similarity/)
 
 For more detailed explanations of these components, refer to [Interpreting Reviews](https://www.coffeereview.com/interpret-coffee/)
 https://www.coffeereview.com/ - 
