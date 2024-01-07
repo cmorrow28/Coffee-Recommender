@@ -19,8 +19,9 @@ Welcome to the Coffee Recommender System! This dataset contains information abou
 
 ## Overview
 
-This dataset is taken from [www.coffeereview.com](https://www.coffeereview.com/) and includes information relating to the provenance, growing conditions, processing methods, varietals, and <em>cupping</em> scores (and therefore quality) of arabica and robusta coffee beans.
-This project features a coffee recommender and outputs through a streamlit platform. It considers 3282 unique coffees and recommends coffee based on the cosine similarity of the user input of the different coffee characteristics preferred: aroma, acidity, body, flavor and aftertaste. In future versions, it would be great to customise the recommendation system to the text description given in this dataset. However, overall this system is able to output the most similar coffees as per user preference. 
+This dataset is taken from [www.coffeereview.com](https://www.coffeereview.com/) and includes information relating to the coffee quality, rating, country of origin with text descriptions associated with coffee bean characteristics and origin. <br> 
+
+This dataset considers 3282 unique coffees and recommends coffee based on the cosine similarity of the user input of the different coffee characteristics preferred: aroma, acidity, body, flavor and aftertaste. In future versions, it would be great to customise the recommendation system to the text description given in this dataset. However, overall this system is able to output the most similar coffees as per user preference. 
 
 ## Contents
 
