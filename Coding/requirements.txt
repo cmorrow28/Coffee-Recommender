@@ -1,7 +1,9 @@
 pyarrow 
-sci-kit 
-streamlit-extras
+-U scikit-learn
+flask_cors
+seaborn
+streamlit 
+numpy 
+matplotlib
 
-
-pip install streamlit 
 streamlit run app.py 

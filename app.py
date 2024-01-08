@@ -28,18 +28,26 @@ data = [dict(row._asdict()) for row in result]
 # Create a DataFrame
 coffee_data_df = pd.DataFrame(data)
 
-# Coffee Recommender
-def coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data, top_n=5):
-    input_data = pd.DataFrame({'aroma': [aroma], 'flavour': [flavor], 'acid': [acid], 'body': [body], 'aftertaste': [aftertaste]})
-    input_array = input_data.to_numpy().reshape(1, -1)
+# Load Standard Scaler and PCA model
+loaded_scaler = joblib.load("models/scaler.joblib")
+loaded_pca = joblib.load("models/pca_model.joblib")
 
-    # Calculate cosine similarity for each row
-    coffee_data['similarity_factor'] = coffee_data.apply(lambda row: cosine_similarity(input_array, row[['aroma', 'flavor', 'acid', 'body', 'aftertaste']].values.reshape(1, -1))[0][0], axis=1)
+# Coffee Recommender
+def coffee_recommender(coffee_data_df, loaded_scaler, loaded_pca, aroma, flavor, acid, body, aftertaste, top_n=5):
+    input_data = pd.DataFrame({'aroma': [aroma], 'flavour': [flavor], 'acid': [acid], 'body': [body], 'aftertaste': [aftertaste]})  # Apply loaded scaler 
+    scaled_input_data = loaded_scaler.transform(input_data)  # Apply scaler transformation
+    input_pca = loaded_pca.transform(scaled_input_data)  # Apply PCA transformation
+
+    # Transform the entire dataset using PCA
+    coffee_data_pca = loaded_pca.transform(coffee_data_df[['aroma', 'flavor', 'acid', 'body', 'aftertaste']])
+
+    # Calculate cosine similarity using the transformed features
+    similarity_scores = cosine_similarity(input_pca, coffee_data_pca)
 
     # Get the indices of the top N similar items
-    top_indices = coffee_data['similarity_factor'].nlargest(top_n).index.tolist()
+    top_indices = similarity_scores.argsort(axis=1)[:, -top_n:].flatten()
 
-    return coffee_data.loc[top_indices]
+    return coffee_data_df.loc[top_indices]
 
 # Set the page configuration with the desired tab name
 st.set_page_config(page_title="Coffee Recommender", page_icon="☕️", layout="wide")
@@ -81,11 +89,11 @@ result_container = st.empty()
 with st.sidebar:
     st.markdown("<div style='text-align: center; font-weight: bold;'>Adjust Your Coffee Preferences Here</div><hr style='border-top: 1px solid #FFFFFF;'>", unsafe_allow_html=True)
 
-    aroma = st.slider(":brown[Select Aroma level]", 0.0, 10.0, step=0.1, key="aroma_slider")
-    flavor = st.slider(":brown[Select Flavour level]", 0.0, 10.0, step=0.1, key="flavor_slider")
-    acid = st.slider(":brown[Select Acidity level]", 0.0, 10.0, step=0.1, key="acid_slider")
-    body = st.slider(":brown[Select Body level]", 0.0, 10.0, step=0.1, key="body_slider")
-    aftertaste = st.slider(":brown[Select Aftertaste level]", 0.0, 10.0, step=0.1, key="aftertaste_slider")
+    aroma = st.slider(":brown[Select Aroma level]", 0, 10, step=1, key="aroma_slider")
+    flavor = st.slider(":brown[Select Flavour level]", 0, 10, step=1, key="flavor_slider")
+    acid = st.slider(":brown[Select Acidity level]", 0, 10, step=1, key="acid_slider")
+    body = st.slider(":brown[Select Body level]", 0, 10, step=1, key="body_slider")
+    aftertaste = st.slider(":brown[Select Aftertaste level]", 0, 10, step=1, key="aftertaste_slider")
 
 
     col1, col2 = st.columns(2)  # Create two columns for the buttons to sit in
@@ -93,7 +101,7 @@ with st.sidebar:
     # Button 1: Show me my results
     if col1.button("Show Me The Coffee!"):
         # Get recommended coffees
-        recommended_coffees = coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data_df)
+        recommended_coffees = coffee_recommender(coffee_data_df, loaded_scaler, loaded_pca, aroma, flavor, acid, body, aftertaste, top_n=5)
 
         # Display recommended coffees with centered text
         recommendations_html = ""
