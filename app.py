@@ -4,6 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify
 from flask_cors import CORS
+import joblib
 
 # Flask setup
 app = Flask(__name__)
