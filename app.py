@@ -41,15 +41,22 @@ def coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data, top_n
 
     return coffee_data.loc[top_indices]
 
+# Set the page configuration with the desired tab name
+st.set_page_config(page_title="Coffee Recommender", page_icon="☕️", layout="wide")
+
 # Coffee Recommender Title and Intro
 st.markdown(
     """
     <div style='text-align: center; border: 1.5px solid #FFFFFF; padding: 50px;'>
-        <h1 style='color: #d29c6c;'>Coffee Recommender</h1>
+        <div style='display: flex; align-items: center; justify-content: center;'>
+            <span style='font-size: 42px;'>&#9749;</span>
+            <h1 style='color: #d29c6c; margin: 0 10px;'>Coffee Recommender</h1>
+            <span style='font-size: 42px;'>&#9749;</span>
+        </div>
         <br> <!-- Line break -->
         <h3>Welcome to the Coffee Recommender app!</h3>
         <p>Discover your next favorite coffee based on your preferences.</p>
-        <p>Adjust the sliders to select your preferred aroma, flavor, acidity, body, and aftertaste levels, and we'll recommend the best coffees for you.</p>
+        <p>Adjust the sliders to the left to select your preferred aroma, flavor, acidity, body, and aftertaste levels, and we'll recommend the best coffees for you.</p>
         <hr style="border-top: 1px solid #d29c6c;"> <!-- Visual line -->
         <p><strong><span style='color: #d29c6c; font-size: 14pt;'>Aroma:</span></strong> The intensity of the coffee's fragrance. <br>
             0: No noticeable aroma → 10: Extremely strong and aromatic</p>
@@ -99,7 +106,7 @@ with st.sidebar:
                         margin: 10px; 
                         background-color: #271b12; 
                         color: #FFFFFF;
-                        max-height: 230px; 
+                        max-height: 300px; 
                         overflow-y: auto;
                         text-align: center;">  <!-- Centering text -->
                 <h2 style="color: #d29c6c;">Recommendation #{i}</h2>
