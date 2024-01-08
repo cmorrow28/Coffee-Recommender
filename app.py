@@ -4,7 +4,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify
 from flask_cors import CORS
-import joblib 
 
 # Flask setup
 app = Flask(__name__)
@@ -29,61 +28,90 @@ data = [dict(row._asdict()) for row in result]
 # Create a DataFrame
 coffee_data_df = pd.DataFrame(data)
 
-# Load models
-loaded_model = joblib.load("models/kmeans_model.joblib")
-loaded_pca = joblib.load("models/pca_model.joblib")
-
 # Coffee Recommender
-def coffee_recommender(aroma, flavor, acid, body, aftertaste, loaded_model, loaded_pca, coffee_data_df, top_n=5):
-    # Transform user input using PCA
-    input_data = loaded_pca.transform([[aroma, flavor, acid, body, aftertaste]])
-    input_array = input_data.reshape(1, -1)
-
-    # Make predictions using the loaded KMeans model
-    cluster_label = loaded_model.predict(input_data)[0]
-
-    # Assign the cluster label to a new column
-    coffee_data_df['coffee_segments'] = loaded_model.predict(loaded_pca.transform(coffee_data_df[['aroma', 'flavor', 'acid', 'body', 'aftertaste']]))
-
-    # Filter coffee_data_df for the predicted cluster
-    recommended_coffees = coffee_data_df[coffee_data_df['coffee_segments'] == cluster_label]
+def coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data, top_n=5):
+    input_data = pd.DataFrame({'aroma': [aroma], 'flavour': [flavor], 'acid': [acid], 'body': [body], 'aftertaste': [aftertaste]})
+    input_array = input_data.to_numpy().reshape(1, -1)
 
     # Calculate cosine similarity for each row
-    input_array = input_data.reshape(1, -1)
-    recommended_coffees['similarity_factor'] = recommended_coffees.apply(lambda row: cosine_similarity(input_array, row[['aroma', 'flavor', 'acid', 'body', 'aftertaste']].values.reshape(1, -1))[0][0], axis=1)
+    coffee_data['similarity_factor'] = coffee_data.apply(lambda row: cosine_similarity(input_array, row[['aroma', 'flavor', 'acid', 'body', 'aftertaste']].values.reshape(1, -1))[0][0], axis=1)
 
     # Get the indices of the top N similar items
-    top_indices = recommended_coffees['similarity_factor'].nlargest(top_n).index.tolist()
+    top_indices = coffee_data['similarity_factor'].nlargest(top_n).index.tolist()
 
-    return recommended_coffees.loc[top_indices]
+    return coffee_data.loc[top_indices]
 
-# Coffee Recommender Streamlit App
-def recommend_coffees(coffee_data_df, loaded_model, loaded_pca):
-    # Get user input for coffee factors
-    aroma = st.sidebar.slider("Select Aroma level", 0.0, 10.0, 5.0)
-    flavor = st.sidebar.slider("Select Flavor level", 0.0, 10.0, 5.0)
-    acid = st.sidebar.slider("Select Acidity level", 0.0, 10.0, 5.0)
-    body = st.sidebar.slider("Select Body level", 0.0, 10.0, 5.0)
-    aftertaste = st.sidebar.slider("Select Aftertaste level", 0.0, 10.0, 5.0)
+# Set the page configuration with the desired tab name
+st.set_page_config(page_title="Coffee Recommender", page_icon="☕️", layout="wide")
 
-    # Get recommended coffees
-    recommended_coffees = coffee_recommender(aroma, flavor, acid, body, aftertaste, loaded_model, loaded_pca, coffee_data_df)
+# Coffee Recommender Title and Intro
+st.markdown(
+    """
+    <div style='text-align: center; border: 1.5px solid #FFFFFF; padding: 50px;'>
+        <div style='display: flex; align-items: center; justify-content: center;'>
+            <span style='font-size: 42px;'>&#9749;</span>
+            <h1 style='color: #d29c6c; margin: 0 10px;'>Coffee Recommender</h1>
+            <span style='font-size: 42px;'>&#9749;</span>
+        </div>
+        <br> <!-- Line break -->
+        <h3>Welcome to the Coffee Recommender app!</h3>
+        <p>Discover your next favorite coffee based on your preferences.</p>
+        <p>Adjust the sliders to the left to select your preferred aroma, flavor, acidity, body, and aftertaste levels, and we'll recommend the best coffees for you.</p>
+        <hr style="border-top: 1px solid #d29c6c;"> <!-- Visual line -->
+        <p><strong><span style='color: #d29c6c; font-size: 14pt;'>Aroma:</span></strong> The intensity of the coffee's fragrance. <br>
+            0: No noticeable aroma → 10: Extremely strong and aromatic</p>
+        <p><strong><span style='color: #d29c6c; font-size: 14pt;'>Flavour:</span></strong> The overall taste profile of the coffee. <br>
+            0: No flavour → 10: Intensely rich and complex flavour</p>
+        <p><strong><span style='color: #d29c6c; font-size: 14pt;'>Acidity:</span></strong> The perceived brightness or sharpness of the coffee. <br>
+            0: Low acidity → 10: Very high acidity</p>
+        <p><strong><span style='color: #d29c6c; font-size: 14pt;'>Body:</span></strong> The weight or thickness of the coffee on your palate. <br>
+            0: Light-bodied → 10: Full-bodied and robust</p>
+        <p><strong><span style='color: #d29c6c; font-size: 14pt;'>Aftertaste:</span></strong> The lingering taste after swallowing. <br>
+            0: No aftertaste → 10: Long-lasting and pleasant aftertaste</p>
+        <hr style="border-top: 1px solid #d29c6c;"> <!-- Visual line -->
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
-    # Display recommended coffees with a rectangle appearance and Open Sans font
-    for i, (_, row) in enumerate(recommended_coffees[['name', 'roaster', 'roast', 'country_of_origin', 'desc_1', 'desc_2']].head(6).iterrows(), 1):
-        st.markdown(
-            f"""
+# Create an empty container for the recommendations
+result_container = st.empty()
+
+# Sidebar with horizontally aligned sliders and buttons
+with st.sidebar:
+    st.markdown("<div style='text-align: center; font-weight: bold;'>Adjust Your Coffee Preferences Here</div><hr style='border-top: 1px solid #FFFFFF;'>", unsafe_allow_html=True)
+
+    aroma = st.slider(":brown[Select Aroma level]", 0.0, 10.0, step=0.1, key="aroma_slider")
+    flavor = st.slider(":brown[Select Flavour level]", 0.0, 10.0, step=0.1, key="flavor_slider")
+    acid = st.slider(":brown[Select Acidity level]", 0.0, 10.0, step=0.1, key="acid_slider")
+    body = st.slider(":brown[Select Body level]", 0.0, 10.0, step=0.1, key="body_slider")
+    aftertaste = st.slider(":brown[Select Aftertaste level]", 0.0, 10.0, step=0.1, key="aftertaste_slider")
+
+
+    col1, col2 = st.columns(2)  # Create two columns for the buttons to sit in
+
+    # Button 1: Show me my results
+    if col1.button("Show Me The Coffee!"):
+        # Get recommended coffees
+        recommended_coffees = coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data_df)
+
+        # Display recommended coffees with centered text
+        recommendations_html = ""
+        for i, (_, row) in enumerate(recommended_coffees[['rating', 'name', 'roaster', 'roast', 'country_of_origin', 'desc_1', 'desc_2']].head(6).iterrows(), 1):
+            recommendations_html += f"""
             <div style="font-family: 'Open Sans', sans-serif; 
                         border: 2px solid #a6a6a6; 
                         border-radius: 10px; 
                         padding: 15px; 
                         margin: 10px; 
-                        background-color: #271001; 
+                        background-color: #271b12; 
                         color: #FFFFFF;
-                        max-height: 230px; 
-                        overflow-y: auto;">
+                        max-height: 300px; 
+                        overflow-y: auto;
+                        text-align: center;">  <!-- Centering text -->
                 <h2 style="color: #d29c6c;">Recommendation #{i}</h2>
-                <p><strong>Name:</strong> {row['name']}</p>
+                <p style="color: #d29c6c;"><strong>Name:</strong> {row['name']}</p> 
+                <p><strong>Rating:</strong> {row['rating']}</p>
                 <p><strong>Roaster:</strong> {row['roaster']}</p>
                 <p><strong>Roast Level:</strong> {row['roast']}</p>
                 <p><strong>Country of Origin:</strong> {row['country_of_origin']}</p>
@@ -92,10 +120,13 @@ def recommend_coffees(coffee_data_df, loaded_model, loaded_pca):
                 <p style="color: #d29c6c;"><strong>Information About The Coffee's Origins</strong></p>
                 <p>{row['desc_2']}</p>
             </div>
-            """,
-            unsafe_allow_html=True
-        )
+            """
+        
+        # Update the content of the container with the recommendations
+        result_container.markdown(recommendations_html, unsafe_allow_html=True)
 
-# Streamlit App
-st.title("Coffee Recommender")
-recommend_coffees(coffee_data_df, loaded_model, loaded_pca)
+    # Button 2: Reset
+    if col2.button("Reset My Results"):
+        # Logic for resetting goes here
+        st.warning("Reset") 
+        # Clear
