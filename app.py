@@ -4,6 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify
 from flask_cors import CORS
+import joblib  # Assuming your model and PCA are saved using joblib
 
 # Flask setup
 app = Flask(__name__)
@@ -28,18 +29,25 @@ data = [dict(row._asdict()) for row in result]
 # Create a DataFrame
 coffee_data_df = pd.DataFrame(data)
 
-# Coffee Recommender
-def coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data, top_n=5):
-    input_data = pd.DataFrame({'aroma': [aroma], 'flavour': [flavor], 'acid': [acid], 'body': [body], 'aftertaste': [aftertaste]})
-    input_array = input_data.to_numpy().reshape(1, -1)
+# Load your machine learning model and PCA model
+loaded_model = joblib.load("models/kmeans_model.joblib")
+loaded_pca = joblib.load("models/pca_model.joblib")
 
-    # Calculate cosine similarity for each row
-    coffee_data['similarity_factor'] = coffee_data.apply(lambda row: cosine_similarity(input_array, row[['aroma', 'flavor', 'acid', 'body', 'aftertaste']].values.reshape(1, -1))[0][0], axis=1)
+# Coffee Recommender
+def coffee_recommender(coffee_data_df, loaded_model, loaded_pca, aroma, flavor, acid, body, aftertaste, top_n=5):
+    input_data = pd.DataFrame({'aroma': [aroma], 'flavour': [flavor], 'acid': [acid], 'body': [body], 'aftertaste': [aftertaste]})
+    input_pca = loaded_pca.transform(input_data)  # Apply PCA transformation
+
+    # Transform the entire dataset using PCA
+    coffee_data_pca = loaded_pca.transform(coffee_data_df[['aroma', 'flavor', 'acid', 'body', 'aftertaste']])
+
+    # Calculate cosine similarity using the transformed features
+    similarity_scores = cosine_similarity(input_pca, coffee_data_pca)
 
     # Get the indices of the top N similar items
-    top_indices = coffee_data['similarity_factor'].nlargest(top_n).index.tolist()
+    top_indices = similarity_scores.argsort(axis=1)[:, -top_n:].flatten()
 
-    return coffee_data.loc[top_indices]
+    return coffee_data_df.loc[top_indices]
 
 # Set the page configuration with the desired tab name
 st.set_page_config(page_title="Coffee Recommender", page_icon="☕️", layout="wide")
@@ -93,7 +101,7 @@ with st.sidebar:
     # Button 1: Show me my results
     if col1.button("Show Me The Coffee!"):
         # Get recommended coffees
-        recommended_coffees = coffee_recommender(aroma, flavor, acid, body, aftertaste, coffee_data_df)
+        recommended_coffees = coffee_recommender(coffee_data_df, loaded_model, loaded_pca, aroma, flavor, acid, body, aftertaste, top_n=5)
 
         # Display recommended coffees with centered text
         recommendations_html = ""
