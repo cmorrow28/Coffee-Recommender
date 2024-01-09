@@ -119,7 +119,7 @@ with st.sidebar:
     col1, col2 = st.columns(2)  # Create two columns for the buttons to sit in
 
     # Button 1: Show me my results
-    if col1.button("Show Me The Coffee!"):
+    if col1.button(":rainbow[Show Me The Coffee!]"):
         # Get recommended coffees
         recommended_coffees = coffee_recommender(coffee_data_df, loaded_scaler, loaded_pca, aroma, flavor, acid, body, aftertaste, top_n=5)
         
