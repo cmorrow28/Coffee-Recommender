@@ -4,6 +4,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify
 from flask_cors import CORS
+# import folium
+# from streamlit_folium import folium_static
 import joblib 
 
 # Flask setup
@@ -57,6 +59,16 @@ def coffee_recommender(aroma, flavor, acid, body, aftertaste, loaded_model, load
 
     return recommended_coffees.loc[top_indices]
 
+# def show_map(latitude, longitude):
+#     # Create a Folium map centered at the specified location
+#     coffee_map = folium.Map(location=[latitude, longitude], zoom_start=12)
+
+#     # Add a marker to the map
+#     folium.Marker(location=[latitude, longitude], popup="Recommended Coffee Location").add_to(coffee_map)
+
+#     # Display the map using st.map
+#     st.markdown(folium_static(coffee_map))
+
 # Coffee Recommender Streamlit App
 def recommend_coffees(coffee_data_df, loaded_model, loaded_pca):
     # Get user input for coffee factors
@@ -95,6 +107,13 @@ def recommend_coffees(coffee_data_df, loaded_model, loaded_pca):
             """,
             unsafe_allow_html=True
         )
+        
+        # # Add a map to display the location of the recommended coffee
+        # st.markdown("<h2 style='color: #d29c6c;'>Location on Map</h2>", unsafe_allow_html=True)
+        # show_map(row['latitude'], row['longitude'])
+
+# if __name__ == "__main__":
+#     recommend_coffees(coffee_data_df, loaded_model, loaded_pca)
 
 # Streamlit App
 st.title("Coffee Recommender")
