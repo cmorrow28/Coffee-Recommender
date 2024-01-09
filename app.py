@@ -149,7 +149,6 @@ with st.sidebar:
             </div>
             """,
             unsafe_allow_html=True
-        )
         
         # # Add a map to display the location of the recommended coffee
         # st.markdown("<h2 style='color: #d29c6c;'>Location on Map</h2>", unsafe_allow_html=True)
