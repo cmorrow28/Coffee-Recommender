@@ -4,9 +4,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify
 from flask_cors import CORS
-# import folium
-# from streamlit_folium import folium_static
-import joblib 
+import joblib
+import folium
+from streamlit_folium import folium_static
 
 # Flask setup
 app = Flask(__name__)
@@ -52,24 +52,25 @@ def coffee_recommender(coffee_data_df, loaded_scaler, loaded_pca, aroma, flavor,
 
     return coffee_data_df.loc[top_indices]
 
-# def show_map(latitude, longitude):
-#     # Create a Folium map centered at the specified location
-#     coffee_map = folium.Map(location=[latitude, longitude], zoom_start=12)
+# Function to create a Folium map
+def create_map(recommended_coffees):
+    # Create a map centered at a specific location (you can customize the coordinates)
+    map_center = [0, 0]
+    coffee_map = folium.Map(location=map_center, zoom_start=2)
 
-#     # Add a marker to the map
-#     folium.Marker(location=[latitude, longitude], popup="Recommended Coffee Location").add_to(coffee_map)
+    # Add markers for each recommended coffee
+    for i, (_, row) in enumerate(recommended_coffees.iterrows(), 1):
+        # Customize the content of the popup for each marker
+        popup_content = f"<strong>Recommendation #{i}</strong><br><strong>Country of Origin:</strong> {row['country_of_origin']}<br><strong>Rating:</strong> {row['rating']}"
 
-#     # Display the map using st.map
-#     st.markdown(folium_static(coffee_map))
+        marker_location = [row['latitude'], row['longitude']]  # Add latitude and longitude columns to your DataFrame
 
-# Coffee Recommender Streamlit App
-def recommend_coffees(coffee_data_df, loaded_model, loaded_pca):
-    # Get user input for coffee factors
-    aroma = st.sidebar.slider("Select Aroma level", 0.0, 10.0, 5.0)
-    flavor = st.sidebar.slider("Select Flavor level", 0.0, 10.0, 5.0)
-    acid = st.sidebar.slider("Select Acidity level", 0.0, 10.0, 5.0)
-    body = st.sidebar.slider("Select Body level", 0.0, 10.0, 5.0)
-    aftertaste = st.sidebar.slider("Select Aftertaste level", 0.0, 10.0, 5.0)
+        folium.Marker(location=marker_location, popup=popup_content).add_to(coffee_map)
+
+    return coffee_map
+
+# Set the page configuration with the desired tab name
+st.set_page_config(page_title="Coffee Recommender", page_icon="☕️", layout="wide")
 
 # Coffee Recommender Title and Intro
 st.markdown(
@@ -121,6 +122,10 @@ with st.sidebar:
     if col1.button("Show Me The Coffee!"):
         # Get recommended coffees
         recommended_coffees = coffee_recommender(coffee_data_df, loaded_scaler, loaded_pca, aroma, flavor, acid, body, aftertaste, top_n=5)
+        
+        # Display recommended coffees on a map
+        coffee_map = create_map(recommended_coffees)
+        folium_static(coffee_map)
 
         # Display recommended coffees with centered text
         recommendations_html = ""
@@ -147,15 +152,10 @@ with st.sidebar:
                 <p style="color: #d29c6c;"><strong>Information About The Coffee's Origins</strong></p>
                 <p>{row['desc_2']}</p>
             </div>
-            """,
-            unsafe_allow_html=True
+            """
         
-        # # Add a map to display the location of the recommended coffee
-        # st.markdown("<h2 style='color: #d29c6c;'>Location on Map</h2>", unsafe_allow_html=True)
-        # show_map(row['latitude'], row['longitude'])
-
-# if __name__ == "__main__":
-#     recommend_coffees(coffee_data_df, loaded_model, loaded_pca)
+        # Update the content of the container with the recommendations
+        result_container.markdown(recommendations_html, unsafe_allow_html=True)
 
     # Button 2: Reset
     if col2.button("Reset My Results"):
