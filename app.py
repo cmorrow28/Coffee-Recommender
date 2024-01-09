@@ -4,7 +4,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify
 from flask_cors import CORS
-import joblib
+# import folium
+# from streamlit_folium import folium_static
+import joblib 
 
 # Flask setup
 app = Flask(__name__)
@@ -50,8 +52,24 @@ def coffee_recommender(coffee_data_df, loaded_scaler, loaded_pca, aroma, flavor,
 
     return coffee_data_df.loc[top_indices]
 
-# Set the page configuration with the desired tab name
-st.set_page_config(page_title="Coffee Recommender", page_icon="☕️", layout="wide")
+# def show_map(latitude, longitude):
+#     # Create a Folium map centered at the specified location
+#     coffee_map = folium.Map(location=[latitude, longitude], zoom_start=12)
+
+#     # Add a marker to the map
+#     folium.Marker(location=[latitude, longitude], popup="Recommended Coffee Location").add_to(coffee_map)
+
+#     # Display the map using st.map
+#     st.markdown(folium_static(coffee_map))
+
+# Coffee Recommender Streamlit App
+def recommend_coffees(coffee_data_df, loaded_model, loaded_pca):
+    # Get user input for coffee factors
+    aroma = st.sidebar.slider("Select Aroma level", 0.0, 10.0, 5.0)
+    flavor = st.sidebar.slider("Select Flavor level", 0.0, 10.0, 5.0)
+    acid = st.sidebar.slider("Select Acidity level", 0.0, 10.0, 5.0)
+    body = st.sidebar.slider("Select Body level", 0.0, 10.0, 5.0)
+    aftertaste = st.sidebar.slider("Select Aftertaste level", 0.0, 10.0, 5.0)
 
 # Coffee Recommender Title and Intro
 st.markdown(
@@ -129,10 +147,16 @@ with st.sidebar:
                 <p style="color: #d29c6c;"><strong>Information About The Coffee's Origins</strong></p>
                 <p>{row['desc_2']}</p>
             </div>
-            """
+            """,
+            unsafe_allow_html=True
+        )
         
-        # Update the content of the container with the recommendations
-        result_container.markdown(recommendations_html, unsafe_allow_html=True)
+        # # Add a map to display the location of the recommended coffee
+        # st.markdown("<h2 style='color: #d29c6c;'>Location on Map</h2>", unsafe_allow_html=True)
+        # show_map(row['latitude'], row['longitude'])
+
+# if __name__ == "__main__":
+#     recommend_coffees(coffee_data_df, loaded_model, loaded_pca)
 
     # Button 2: Reset
     if col2.button("Reset My Results"):
