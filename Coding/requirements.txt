@@ -5,5 +5,9 @@ seaborn
 streamlit 
 numpy 
 matplotlib
+geopy
+Nominatim
+streamlit folium
+pycountry
 
 streamlit run app.py 
