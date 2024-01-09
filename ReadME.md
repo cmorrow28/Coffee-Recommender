@@ -14,6 +14,7 @@ Welcome to the Coffee Recommender System! This dataset contains information abou
 - [Column Description](#column-descriptions)
   - [Coffee Description](#coffee-descriptions)
 - [Limitations](#limitations)
+- [Conclusion](#conclusion)
 - [Contributors](#contributors)
 - [References](#references)
 
@@ -81,6 +82,11 @@ You can install the required Python packages using the following command:
 pip install -r requirements.txt
 ```
 
+to run the app: 
+```bash
+streamlit run app.py
+```
+
 ## Column Descriptions
 The cleaned dataset includes the following columns:
 
@@ -93,6 +99,8 @@ The cleaned dataset includes the following columns:
 - <b>desc_2: </b>Additional information about the coffee's origin.
 - <b>rating:</b> Rating of the coffee blend.
 - <b>aroma, acid, body, flavor, aftertaste:</b> Coffee quality attributes rated by users.
+
+For more detailed explanations of these components, refer to [Interpreting Reviews](https://www.coffeereview.com/interpret-coffee/)
 
 ## Coffee Descriptions
 A rating system of 1 (low) to 10 (high) for aroma, acidity, body, flavor and aftertaste, reflect both quantity (how intense) and quality (how pleasing.) <br>
@@ -132,11 +140,19 @@ The scale for the overall coffee ratings runs from 50 to 100, and reflects the r
 | 87-88        | An interesting coffee but either 1) distinctive yet mildly flawed, or 2) solid but not exciting |
 | 85/86        | An acceptable, solid coffee, but nothing exceptional — the best high-end supermarket whole bean, for example |
 
-## Limitations  
-- Reduction in dataset due to null values
+## Limitations 
 - Limitation of data analytics student compentency and understanding of systems
 - Non-user review input
 - Small scale dataset
+
+## Conclusion 
+Generally the database is a great recommendation system should our contributors be able use all components of the dataset. In future design of the dash board we would look to include some of the following features:  
+- Application of Vectorisation with desc_1 and desc_2 with better understanding of cosine similarity
+- Use one-hot encoding to define roasts implementation into dashboard
+- Allow for user review after recommendation given thumbs up or down
+- Web scraping application for real-time output
+- Show the cosine similarity values in the dashboard
+- Incorporate model into a mobile app for easier use 
 
 ## Contributors 
 [Cayley Morrow](https://github.com/cmorrow28) <br> 
@@ -149,8 +165,6 @@ The scale for the overall coffee ratings runs from 50 to 100, and reflects the r
 [3] [Matplotlib](https://matplotlib.org/) <br> 
 [4] [ToFerk GitHub](https://github.com/toferk)  <br> 
 [5] [Understanding Cosine Similatiry Math](https://www.learndatasci.com/glossary/cosine-similarity/)
-
-For more detailed explanations of these components, refer to [Interpreting Reviews](https://www.coffeereview.com/interpret-coffee/)
-https://www.coffeereview.com/ - 
+[6] [Coffee Review website](https://www.coffeereview.com/) 
 
 
